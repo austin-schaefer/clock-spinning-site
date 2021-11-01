@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Clock Spinning`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Austin and Connor`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `A podcast of Magic's history, from Onslaught to Future Sight, with a card-by-card discussion of every card in between.`,
+    siteUrl: `https://clockspinning.com`,
   },
   plugins: [
     `gatsby-plugin-image`,
