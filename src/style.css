@@ -60,6 +60,7 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #D19ED5;
+  --color-heading-background: grey;
 }
 
 /* HTML elements */
@@ -255,11 +256,22 @@ a:focus {
   margin-bottom: var(--spacing-12);
 }
 
+/* Nav classes */
+
 .main-heading {
   font-size: var(--fontSize-7);
   color: var(--color-accent);
   margin: 0;
 }
+
+.main-heading-links {
+  color: var(--color-primary);
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+} 
+
+/* Index page classes */
 
 .post-list-item {
   margin-bottom: var(--spacing-8);
@@ -288,6 +300,8 @@ a:focus {
   font-size: var(--fontSize-2);
 }
 
+/* Bio component classes */
+
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
@@ -303,6 +317,8 @@ a:focus {
   min-width: 50px;
   border-radius: 100%;
 }
+
+/* Blog post component classes */
 
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
