@@ -34,7 +34,7 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()} Austin and Connor Schaefer.
+        © {new Date().getFullYear()} Austin Schaefer and Connor He-Schaefer
       </footer>
     </div>
   )
