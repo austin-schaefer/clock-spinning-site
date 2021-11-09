@@ -29,7 +29,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <hr/>
           <p>
             <i>
-              Check out this episode on your podcast player:
+              Check out this episode in your podcast player:
             </i>
           </p>
           <ul
@@ -74,10 +74,12 @@ const BlogPostTemplate = ({ data, location }) => {
           </ul>
           <hr/>
         </episodeLinks>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <blogPostBody>
+          <section
+            dangerouslySetInnerHTML={{ __html: post.html }}
+            itemProp="articleBody"
+          />
+        </blogPostBody>
         <hr />
         <footer>
           <Bio />

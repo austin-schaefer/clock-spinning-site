@@ -170,7 +170,7 @@ p {
 
 ul,
 ol {
-  margin-left: var(--spacing-6);
+  margin-left: var(--spacing-0);
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
@@ -317,22 +317,26 @@ a:focus {
   margin: var(--spacing-0);
 }
 
-.blog-post EpisodeLinks {
+.blog-post episodeLinks {
   font-size: var(--fontSize-0);
   margin-bottom: var(--spacing-8);
 }
 
-.blog-post EpisodeLinks a {
+.blog-post episodeLinks a {
   color: var(--color-accent);
 }
 
-.blog-post EpisodeLinks ul {
+.blog-post episodeLinks ul {
   margin-bottom: var(--spacing-0);
 }
 
-.blog-post EpisodeLinks p {
+.blog-post episodeLinks p {
   margin-top: var(--spacing-4);
   text-align: center;
+}
+
+.blog-post blogPostBody ul {
+  margin-left: var(--spacing-6);
 }
 
 .gatsby-highlight {
