@@ -1,13 +1,12 @@
 ---
 title: "Episode 0: The how and the why of Clock Spinning"
 date: "2021-11-10T09:00:00"
-episode_links:
-  - apple_podcasts: https://example.com
-  - google_podcasts: https://example.com
-  - mtgcasts: https://example.com
-  - overcast: https://example.com
-  - spotify: https://example.com
-  - stitcher: https://example.com
+apple_podcasts: https://example.com/1
+google_podcasts: https://example.com/2
+mtgcasts: https://example.com/3
+overcast: https://example.com/4
+spotify: https://example.com/5
+stitcher: https://example.com/6
 ---
 
 Welcome to Episode Zero of Clock Spinning, the podcast where we explore the history of Magic: the Gathering from Onslaught to Time Spiral!

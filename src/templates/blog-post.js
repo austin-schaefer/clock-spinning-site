@@ -25,6 +25,49 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
+        <episodeLinks>
+          <p>Check out this episode on your podcast player:</p>
+          <ul
+            style={{
+              display: `flex`,
+              flexWrap: `wrap`,
+              justifyContent: `space-between`,
+              listStyle: `none`,
+              padding: 0,
+            }}
+          >
+            <li>
+              <Link to={post.frontmatter.apple_podcasts} itemProp="url">
+                Apple Podcasts
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.google_podcasts} itemProp="url">
+                Google Podcasts
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.mtgcasts} itemProp="url">
+                MTG Cast
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.overcast} itemProp="url">
+                Overcast
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.spotify} itemProp="url">
+                Spotify
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.stitcher} itemProp="url">
+                Stitcher
+              </Link>
+            </li>
+          </ul>
+        </episodeLinks>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -83,8 +126,14 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM Do, YYYY")
         description
+        apple_podcasts
+        google_podcasts
+        mtgcasts
+        overcast
+        stitcher
+        spotify
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

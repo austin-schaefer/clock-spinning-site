@@ -1,13 +1,12 @@
 ---
 title: "Episode 1: Reviewing every White card in Onslaught for cube"
 date: "2021-11-10T09:01:00"
-episode_links:
-  - apple_podcasts: https://example.com
-  - google_podcasts: https://example.com
-  - mtgcasts: https://example.com
-  - overcast: https://example.com
-  - spotify: https://example.com
-  - stitcher: https://example.com
+apple_podcasts: https://example.com/1
+google_podcasts: https://example.com/2
+mtgcasts: https://example.com/3
+overcast: https://example.com/4
+spotify: https://example.com/5
+stitcher: https://example.com/6
 ---
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 61 white cards of Onslaught (ONS)! We'll be using our **IMPAB** system to rate all 61 cards, with the goal of deciding which ones should make the cut for our cube and which ones need to stay in Dominaria.
