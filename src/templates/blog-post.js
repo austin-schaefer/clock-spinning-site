@@ -26,7 +26,12 @@ const BlogPostTemplate = ({ data, location }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <episodeLinks>
-          <p>Check out this episode on your podcast player:</p>
+          <hr/>
+          <p>
+            <i>
+              Check out this episode on your podcast player:
+            </i>
+          </p>
           <ul
             style={{
               display: `flex`,
@@ -67,6 +72,7 @@ const BlogPostTemplate = ({ data, location }) => {
               </Link>
             </li>
           </ul>
+          <hr/>
         </episodeLinks>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
