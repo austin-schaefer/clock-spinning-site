@@ -6,7 +6,7 @@ google_podcasts: https://example.com/2
 mtgcasts: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
 overcast: https://overcast.fm/+1JmDZgJmw
 spotify: https://open.spotify.com/episode/4wL768kbAXMB63tlWRAR4v
-stitcher: https://example.com/6
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-001-the-white-cards-of-champions-of-kamigawa-90657423
 ---
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
