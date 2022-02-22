@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Clock Spinning is a podcast, and a cube, covering the history of Magic: the Gathering from Onslaught to Future Sight.
+          Clock Spinning is a podcast covering the history of Magic: the Gathering where we review sets card by card and turn them into fun cubes.
         </p>
       )}
     </div>
