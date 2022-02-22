@@ -12,7 +12,7 @@ const Layout = ({ location, title, children }) => {
         <ul className="main-heading-links">
           <li>
             ➡️ <Link to="/">
-              Read the blog
+              View all episodes
             </Link>
           </li>
           <li>
