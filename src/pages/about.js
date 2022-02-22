@@ -14,7 +14,7 @@ const AboutPage = ({ data, location }) => {
             <article
               className="about-page"
             >
-              <p>Clock Spinning is a podcast about Magic's history, from Onslaught to Future Sight. Join Austin and Connor on a deep dive into this strange, transformative era in Magic’s history, and come along for the ride as they try to review <a href="https://scryfall.com/search?q=%28b%3Aons+OR+e%3A8ed+OR+b%3Amrd+OR+b%3Achk+OR+e%3A9ed+OR+b%3Arav+OR+e%3Acsp+OR+b%3Atsp%29&unique=cards&as=grid&order=name">almost 4,000 cards</a> down to a fun and interesting cube.</p>
+              <p>Clock Spinning is a podcast about the history of Magic: the Gathering, as told card-by-card through <a href="https://mtg.fandom.com/wiki/Cube_Draft">cube</a>. Join Austin and Connor on a deep dive into the vault of Magic history, and come along for the ride as they build cubes that capture all the feels of some of Magic’s most fun and iconic sets.</p>
 
               <p>Listen to the show on your favorite podcast player:</p>
 
@@ -24,11 +24,11 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
-                <li>Other players: Subscribe to <a href="https://www.mtgcast.com/podcasts/clock-spinning/feed">RSS feed</a></li>
+                <li>Other players: Subscribe via <a href="https://www.mtgcast.com/podcasts/clock-spinning/feed">RSS feed</a></li>
                 <li>Or, <a href="https://www.mtgcast.com/podcasts/clock-spinning">listen on the web on MTGCast</a></li>
               </ul>
 
-              <p>You can find the full cube at <a href="https://cubecobra.com/cube/overview/clockspinning">cubecobra.com/cube/overview/clockspinning</a>. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show. </p>
+              <p>Currently we're building a cube for the original Kamigawa block. Our list on <a href="https://cubecobra.com/cube/overview/clock-spinning-chk">Cube Cobra</a> gets updated as each episode goes live, so you can follow along as we rate cards and evolve the list. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show.</p>
 
               <p>The best way to get in touch is email. You can reach either of us at clock[dot]spinning[dot]podcast[at]gmail[dot].com.</p>
             </article>
