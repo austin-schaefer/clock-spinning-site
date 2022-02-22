@@ -12,7 +12,7 @@ const Layout = ({ location, title, children }) => {
         <ul className="main-heading-links">
           <li>
             ➡️ <Link to="/">
-              Read the blog
+              View all episodes
             </Link>
           </li>
           <li>
@@ -21,8 +21,8 @@ const Layout = ({ location, title, children }) => {
             </Link>
           </li>
           <li>
-            ➡️ <Link to="https://cubecobra.com/cube/overview/clockspinning">
-              Check out the cube
+            ➡️ <Link to="https://cubecobra.com/cube/overview/clock-spinning-chk">
+              Check out the current cube
             </Link>
           </li>
         </ul>

@@ -3,9 +3,9 @@ module.exports = {
     title: `Clock Spinning`,
     author: {
       name: `Austin and Connor`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who review Magic sets one card at a time.`,
     },
-    description: `A podcast of Magic's history, from Onslaught to Future Sight, with a card-by-card discussion of every card in between.`,
+    description: `Clock Spinning is a podcast covering the history of Magic: the Gathering where we review sets card by card and turn them into fun cubes.`,
     siteUrl: `https://clockspinning.com`,
   },
   plugins: [
