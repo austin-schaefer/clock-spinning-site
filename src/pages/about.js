@@ -18,7 +18,7 @@ const AboutPage = ({ data, location }) => {
             <ul>
               <li><a href="https://podcasts.apple.com/us/podcast/clock-spinning/id1611106302">Apple Podcasts</a></li>
               <li>Google Podcasts</li>
-              <li>Overcast</li>
+              <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
               <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
               <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
               <li>Or, <a href="https://www.mtgcast.com/podcasts/clock-spinning">listen on the web on MTGCast</a></li>

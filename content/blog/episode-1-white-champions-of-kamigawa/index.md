@@ -4,7 +4,7 @@ date: "2022-02-21T09:01:00"
 apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-001-the-white-cards-of-champions-of-kamigawa/id1611106302?i=1000551836464
 google_podcasts: https://example.com/2
 mtgcasts: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
-overcast: https://example.com/4
+overcast: https://overcast.fm/+1JmDZgJmw
 spotify: https://open.spotify.com/episode/4wL768kbAXMB63tlWRAR4v
 stitcher: https://example.com/6
 ---
