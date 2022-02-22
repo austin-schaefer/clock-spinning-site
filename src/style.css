@@ -359,6 +359,12 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+/* About page component classes */
+
+.about-page ul {
+  margin-left: var(--spacing-6);
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
