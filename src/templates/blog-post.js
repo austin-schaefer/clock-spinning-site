@@ -46,29 +46,40 @@ const BlogPostTemplate = ({ data, location }) => {
                 Apple Podcasts
               </Link>
             </li>
+            <li>•</li>
             <li>
               <Link to={post.frontmatter.google_podcasts} itemProp="url">
                 Google Podcasts
               </Link>
             </li>
+            <li>•</li>
             <li>
-              <Link to={post.frontmatter.mtgcasts} itemProp="url">
-                MTG Cast
+              <Link to={post.frontmatter.mtgcast} itemProp="url">
+                MTGCast
               </Link>
             </li>
+            <li>•</li>
             <li>
               <Link to={post.frontmatter.overcast} itemProp="url">
                 Overcast
               </Link>
             </li>
+            <li>•</li>
             <li>
               <Link to={post.frontmatter.spotify} itemProp="url">
                 Spotify
               </Link>
             </li>
+            <li>•</li>
             <li>
               <Link to={post.frontmatter.stitcher} itemProp="url">
                 Stitcher
+              </Link>
+            </li>
+            <li>•</li>
+            <li>
+              <Link to={post.frontmatter.archive} itemProp="url">
+                Archive.org
               </Link>
             </li>
           </ul>
@@ -138,10 +149,11 @@ export const pageQuery = graphql`
         description
         apple_podcasts
         google_podcasts
-        mtgcasts
+        mtgcast
         overcast
         stitcher
         spotify
+        archive
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
