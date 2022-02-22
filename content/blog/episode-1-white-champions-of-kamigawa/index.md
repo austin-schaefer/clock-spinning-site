@@ -10,6 +10,8 @@ stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-00
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 
+(Apologies to Google Podcast users for the missing link; we're still waiting for Google to approve our listing.)
+
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
 
 As you'll hear at the beginning of the show, IMPAB stands for:

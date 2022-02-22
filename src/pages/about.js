@@ -21,6 +21,7 @@ const AboutPage = ({ data, location }) => {
               <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
               <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
               <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
+              <li>Other players: Subscribe to the feed at <a href="https://www.mtgcast.com/podcasts/clock-spinning/feed">mtgcast.com/podcasts/clock-spinning/feed</a></li>
               <li>Or, <a href="https://www.mtgcast.com/podcasts/clock-spinning">listen on the web on MTGCast</a></li>
             </ul>
 
@@ -56,6 +57,7 @@ export const pageQuery = graphql`
           overcast
           stitcher
           spotify
+          archive
         }
       }
     }
