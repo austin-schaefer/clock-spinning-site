@@ -21,7 +21,7 @@ As you'll hear at the beginning of the show, IMPAB stands for:
 
 As we discuss each card in Champions and beyond, we'll give it one of these five ratings. If we think that we might want more than one copy of a card in the cube, we'll discuss that too.
 
-For this and every set review episode, we'll share a post like this one to provide a handy list of all the cards we cover in the episode. If you'd like an *even more* interactive experience with cards like [Candles' Glow](https://scryfall.com/card/chk/5/candles-glow)  and [Sensei Golden-Tail](https://scryfall.com/card/chk/44/sensei-golden-tail), please check out the [Clock Spinning Cube](http://cubecobra.com/cube/overview/clockspinning) over on Cube Cobra, where we'll be tagging each and every card with its IMPAB rating after each episode.
+For this and every set review episode, we'll share a post like this one to provide a handy list of all the cards we cover in the episode. If you'd like an *even more* interactive experience with cards like [Candles' Glow](https://scryfall.com/card/chk/5/candles-glow)  and [Sensei Golden-Tail](https://scryfall.com/card/chk/44/sensei-golden-tail), please check out the [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, where we'll be tagging each and every card with its IMPAB rating after each episode.
 
 Without further ado, the white cards of Champions of Kamigawa!
 
