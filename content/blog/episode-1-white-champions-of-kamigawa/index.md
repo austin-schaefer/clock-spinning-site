@@ -1,5 +1,5 @@
 ---
-title: "Episode 1: Reviewing every White card in Champions of Kamigawa for cube"
+title: "001: Reviewing every White card in Champions of Kamigawa for cube"
 date: "2022-02-21T09:01:00"
 apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-001-the-white-cards-of-champions-of-kamigawa/id1611106302?i=1000551836464
 google_podcasts: https://example.com/2
