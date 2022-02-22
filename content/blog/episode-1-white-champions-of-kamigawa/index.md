@@ -3,10 +3,11 @@ title: "001: Reviewing every White card in Champions of Kamigawa for cube"
 date: "2022-02-21T09:01:00"
 apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-001-the-white-cards-of-champions-of-kamigawa/id1611106302?i=1000551836464
 google_podcasts: https://example.com/2
-mtgcasts: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
+mtgcast: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
 overcast: https://overcast.fm/+1JmDZgJmw
 spotify: https://open.spotify.com/episode/4wL768kbAXMB63tlWRAR4v
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-001-the-white-cards-of-champions-of-kamigawa-90657423
+archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.

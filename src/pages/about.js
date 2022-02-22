@@ -52,7 +52,7 @@ export const pageQuery = graphql`
           description
           apple_podcasts
           google_podcasts
-          mtgcasts
+          mtgcast
           overcast
           stitcher
           spotify

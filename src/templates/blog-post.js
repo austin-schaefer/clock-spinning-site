@@ -52,8 +52,8 @@ const BlogPostTemplate = ({ data, location }) => {
               </Link>
             </li>
             <li>
-              <Link to={post.frontmatter.mtgcasts} itemProp="url">
-                MTG Cast
+              <Link to={post.frontmatter.mtgcast} itemProp="url">
+                MTGCast
               </Link>
             </li>
             <li>
@@ -69,6 +69,11 @@ const BlogPostTemplate = ({ data, location }) => {
             <li>
               <Link to={post.frontmatter.stitcher} itemProp="url">
                 Stitcher
+              </Link>
+            </li>
+            <li>
+              <Link to={post.frontmatter.archive} itemProp="url">
+                Archive.org
               </Link>
             </li>
           </ul>
@@ -138,7 +143,7 @@ export const pageQuery = graphql`
         description
         apple_podcasts
         google_podcasts
-        mtgcasts
+        mtgcast
         overcast
         stitcher
         spotify
