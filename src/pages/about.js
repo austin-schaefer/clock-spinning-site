@@ -20,7 +20,7 @@ const AboutPage = ({ data, location }) => {
 
               <ul>
                 <li><a href="https://podcasts.apple.com/us/podcast/clock-spinning/id1611106302">Apple Podcasts</a></li>
-                <li>Google Podcasts (coming as Soon™️ as Google approves)</li>
+                <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA">Google Podcasts</a></li>
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>

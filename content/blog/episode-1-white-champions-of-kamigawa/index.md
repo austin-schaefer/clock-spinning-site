@@ -2,7 +2,7 @@
 title: "001: Reviewing every White card in Champions of Kamigawa for cube"
 date: "2022-02-21T09:01:00"
 apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-001-the-white-cards-of-champions-of-kamigawa/id1611106302?i=1000551836464
-google_podcasts: https://example.com/2
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAxLXRoZS13aGl0ZS1jYXJkcy1vZi1jaGFtcGlvbnMtb2Yta2FtaWdhd2EtNjQxN2NkZDQwNQ?sa=X&ved=0CAUQkfYCahcKEwiQuO2S3pf2AhUAAAAAHQAAAAAQNQ
 mtgcast: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
 overcast: https://overcast.fm/+1JmDZgJmw
 spotify: https://open.spotify.com/episode/4wL768kbAXMB63tlWRAR4v
