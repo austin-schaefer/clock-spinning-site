@@ -2,11 +2,11 @@
 title: "002: Reviewing every Blue card in Champions of Kamigawa for cube"
 date: "2022-03-01T23:01:00"
 apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-002-the-blue-cards-of-champions-of-kamigawa/id1611106302?i=1000552657155
-google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAyLXRoZS1ibHVlLWNhcmRzLW9mLWNoYW1waW9ucy1vZi1rYW1pZ2F3YS04NzVjNGE5Zjg0?sa=X&ved=0CAUQkfYCahcKEwig9PTb26f2AhUAAAAAHQAAAAAQAQ
 mtgcast: https://www.mtgcast.com/podcasts/clock-spinning/posts/002-the-blue-cards-of-champions-of-kamigawa-875c4a9f84
 overcast: https://overcast.fm/+1JmDb9_hg
 spotify: https://open.spotify.com/episode/11D58cCc49KQ4xPb2cXfZm
-stitcher: https://www.stitcher.com/podcast/clock-spinning
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-the-podcast-of-magic-the-gathering-history-002-the-blue-cards-of-champions-of-kamigawa-90865191
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
 
