@@ -27,6 +27,7 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db">Amazon Music</a></li>
                 <li><a href="https://podcasts.apple.com/us/podcast/clock-spinning/id1611106302">Apple Podcasts</a></li>
                 <li><a href="https://www.audible.com/pd/B09V45D7T5?qid=1646805039">Audible</a></li>
+                <li><a href="https://castro.fm/podcast/00992d02-768f-4e61-a274-72a2411a52fd">Castro</a></li>
                 <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA">Google Podcasts</a></li>
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://pca.st/udbk5xu5">Pocket Casts</a></li>
