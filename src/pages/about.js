@@ -32,7 +32,7 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://pca.st/udbk5xu5">Pocket Casts</a></li>
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
-                <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a> (not showing the latest episode right now, should be fixed soon)</li>
+                <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
                 <li>Other players: Subscribe via <a href="https://feeds.captivate.fm/clock-spinning/">RSS feed</a></li>
               </ul>
             <h4>Listen on the web</h4>
