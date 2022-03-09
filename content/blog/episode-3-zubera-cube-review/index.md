@@ -5,7 +5,7 @@ captivate_link: https://player.captivate.fm/episode/6d34ac7f-9825-4727-80cd-1e27
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/791f1bf4-ce92-4a15-8291-448cd2720fd3/clock-spinning-003-zubera-special
 apple_podcasts: https://podcasts.apple.com/us/podcast/003-zubera-special/id1611106302?i=1000553391646
 google_podcasts: 
-overcast: 
+overcast: https://overcast.fm/+4EdQ5xMjI
 spotify: https://open.spotify.com/episode/0Xwy2yymJKwVZmiGXbb8iG
 stitcher: 
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
