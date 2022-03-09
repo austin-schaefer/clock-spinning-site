@@ -1,16 +1,15 @@
 ---
 title: "001: Reviewing every White card in Champions of Kamigawa for cube"
 date: "2022-02-21T09:01:00"
-apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-001-the-white-cards-of-champions-of-kamigawa/id1611106302?i=1000551836464
+apple_podcasts: https://podcasts.apple.com/us/podcast/001-white-card-review-champions-of-kamigawa/id1611106302?i=1000553391611
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAxLXRoZS13aGl0ZS1jYXJkcy1vZi1jaGFtcGlvbnMtb2Yta2FtaWdhd2EtNjQxN2NkZDQwNQ?sa=X&ved=0CAUQkfYCahcKEwiQuO2S3pf2AhUAAAAAHQAAAAAQNQ
-mtgcast: https://www.mtgcast.com/podcasts/clock-spinning/posts/001-the-white-cards-of-champions-of-kamigawa-6417cdd405
 overcast: https://overcast.fm/+1JmDZgJmw
-spotify: https://open.spotify.com/episode/4wL768kbAXMB63tlWRAR4v
+spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-001-the-white-cards-of-champions-of-kamigawa-90657423
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 
-(Apologies to Google Podcast users for the missing link; we're still waiting for Google to approve our listing.)
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/de9770e3-345c-48bd-834b-977d4b876fca"></iframe></div>
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
 

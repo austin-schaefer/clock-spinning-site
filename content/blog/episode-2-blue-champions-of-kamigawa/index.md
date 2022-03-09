@@ -1,16 +1,14 @@
 ---
 title: "002: Reviewing every Blue card in Champions of Kamigawa for cube"
 date: "2022-03-01T23:01:00"
-apple_podcasts: https://podcasts.apple.com/us/podcast/clock-spinning-002-the-blue-cards-of-champions-of-kamigawa/id1611106302?i=1000552657155
+apple_podcasts: https://podcasts.apple.com/us/podcast/002-blue-card-review-champions-of-kamigawa/id1611106302?i=1000553391887
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAyLXRoZS1ibHVlLWNhcmRzLW9mLWNoYW1waW9ucy1vZi1rYW1pZ2F3YS04NzVjNGE5Zjg0?sa=X&ved=0CAUQkfYCahcKEwig9PTb26f2AhUAAAAAHQAAAAAQAQ
-mtgcast: https://www.mtgcast.com/podcasts/clock-spinning/posts/002-the-blue-cards-of-champions-of-kamigawa-875c4a9f84
 overcast: https://overcast.fm/+1JmDb9_hg
-spotify: https://open.spotify.com/episode/11D58cCc49KQ4xPb2cXfZm
+spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-the-podcast-of-magic-the-gathering-history-002-the-blue-cards-of-champions-of-kamigawa-90865191
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
-
-## 002: Reviewing every Blue card in Champions of Kamigawa for cube
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/27db8528-443b-4458-b1c1-c8773dcff0b5"></iframe></div>
 
 We're very excited to bring you another episode in our card-by-card set review of Champions of Kamigawa! In [Episode 1](https://clockspinning.com/episode-1-white-champions-of-kamigawa/), we rated all 50 white cards in Champions according to our **IMPAB** system. In today's episode, we're moving on to blue. Come along for our visit to [Minamo](https://mtg.fandom.com/wiki/Minamo), draw more cards than you'll know what to do with, and dare to listen to us speak about [The Unspeakable](https://scryfall.com/card/chk/98/the-unspeakable)!
 

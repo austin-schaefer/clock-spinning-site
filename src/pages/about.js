@@ -24,8 +24,8 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
-                <li>Other players: Subscribe via <a href="https://www.mtgcast.com/podcasts/clock-spinning/feed">RSS feed</a></li>
-                <li>Or, <a href="https://www.mtgcast.com/podcasts/clock-spinning">listen on the web on MTGCast</a></li>
+                <li>Other players: Subscribe via <a href="https://feeds.captivate.fm/clock-spinning/">RSS feed</a></li>
+                <li>Or, listen on the web from any of the episode pages on our homepage</li>
               </ul>
 
               <p>Currently we're building a cube for the original Kamigawa block. Our list on <a href="https://cubecobra.com/cube/overview/clock-spinning-chk">Cube Cobra</a> gets updated as each episode goes live, so you can follow along as we rate cards and evolve the list. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show.</p>
@@ -57,7 +57,6 @@ export const pageQuery = graphql`
           description
           apple_podcasts
           google_podcasts
-          mtgcast
           overcast
           stitcher
           spotify

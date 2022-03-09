@@ -54,12 +54,6 @@ const BlogPostTemplate = ({ data, location }) => {
             </li>
             <li>•</li>
             <li>
-              <Link to={post.frontmatter.mtgcast} itemProp="url">
-                MTGCast
-              </Link>
-            </li>
-            <li>•</li>
-            <li>
               <Link to={post.frontmatter.overcast} itemProp="url">
                 Overcast
               </Link>
@@ -149,7 +143,6 @@ export const pageQuery = graphql`
         description
         apple_podcasts
         google_podcasts
-        mtgcast
         overcast
         stitcher
         spotify
