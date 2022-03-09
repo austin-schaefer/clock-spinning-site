@@ -20,6 +20,7 @@ const AboutPage = ({ data, location }) => {
 
               <ul>
                 <li><a href="https://podcasts.apple.com/us/podcast/clock-spinning/id1611106302">Apple Podcasts</a></li>
+                <li><a href="https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db">Amazon Music</a></li>
                 <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA">Google Podcasts</a></li>
                 <li><a href="https://overcast.fm/itunes1611106302/clock-spinning">Overcast</a></li>
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
@@ -56,6 +57,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM Do, YYYY")
           description
           apple_podcasts
+          amazon_music
           google_podcasts
           overcast
           stitcher

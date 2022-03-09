@@ -42,6 +42,12 @@ const BlogPostTemplate = ({ data, location }) => {
             }}
           >
             <li>
+              <Link to={post.frontmatter.amazon_music} itemProp="url">
+                Amazon Music
+              </Link>
+            </li>
+            <li>•</li>
+            <li>
               <Link to={post.frontmatter.apple_podcasts} itemProp="url">
                 Apple Podcasts
               </Link>
@@ -141,6 +147,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM Do, YYYY")
         description
+        amazon_music
         apple_podcasts
         google_podcasts
         overcast
