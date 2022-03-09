@@ -27,6 +27,7 @@ const BlogPostTemplate = ({ data, location }) => {
         </header>
         <episodeLinks>
           <hr/>
+        <div style={{width: "100%", height: "200px", marginBottom: "20px", borderRadius: "6px", overflow: "hidden"}}><iframe style={{width: "100%", height: "200px"}} frameborder="no" scrolling="no" seamless title="Play this episode in your browser" src={post.frontmatter.captivate_link}></iframe></div>
           <p>
             <i>
               Check out this episode in your podcast player:
@@ -42,6 +43,12 @@ const BlogPostTemplate = ({ data, location }) => {
             }}
           >
             <li>
+              <Link to={post.frontmatter.amazon_music} itemProp="url">
+                Amazon Music
+              </Link>
+            </li>
+            <li>•</li>
+            <li>
               <Link to={post.frontmatter.apple_podcasts} itemProp="url">
                 Apple Podcasts
               </Link>
@@ -50,12 +57,6 @@ const BlogPostTemplate = ({ data, location }) => {
             <li>
               <Link to={post.frontmatter.google_podcasts} itemProp="url">
                 Google Podcasts
-              </Link>
-            </li>
-            <li>•</li>
-            <li>
-              <Link to={post.frontmatter.mtgcast} itemProp="url">
-                MTGCast
               </Link>
             </li>
             <li>•</li>
@@ -147,9 +148,10 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM Do, YYYY")
         description
+        captivate_link
+        amazon_music
         apple_podcasts
         google_podcasts
-        mtgcast
         overcast
         stitcher
         spotify
