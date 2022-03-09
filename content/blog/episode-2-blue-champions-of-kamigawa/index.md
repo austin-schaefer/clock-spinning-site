@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/002-blue-card-review-champ
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAyLXRoZS1ibHVlLWNhcmRzLW9mLWNoYW1waW9ucy1vZi1rYW1pZ2F3YS04NzVjNGE5Zjg0?sa=X&ved=0CAUQkfYCahcKEwig9PTb26f2AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdSLv3S0
 spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-the-podcast-of-magic-the-gathering-history-002-the-blue-cards-of-champions-of-kamigawa-90865191
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/002-blue-card-reviewchampions-of-kamigawa-201151914
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
 

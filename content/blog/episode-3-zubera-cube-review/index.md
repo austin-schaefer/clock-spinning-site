@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/003-zubera-special/id16111
 google_podcasts: 
 overcast: https://overcast.fm/+4EdQ5xMjI
 spotify: https://open.spotify.com/episode/0Xwy2yymJKwVZmiGXbb8iG
-stitcher: 
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/003-zubera-special-201151912
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
 

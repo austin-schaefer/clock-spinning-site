@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/001-white-card-review-cham
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAxLXRoZS13aGl0ZS1jYXJkcy1vZi1jaGFtcGlvbnMtb2Yta2FtaWdhd2EtNjQxN2NkZDQwNQ?sa=X&ved=0CAUQkfYCahcKEwiQuO2S3pf2AhUAAAAAHQAAAAAQNQ
 overcast: https://overcast.fm/+4EdQi23pg
 spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-001-the-white-cards-of-champions-of-kamigawa-90657423
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/001-white-card-reviewchampions-of-kamigawa-201151913
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 
