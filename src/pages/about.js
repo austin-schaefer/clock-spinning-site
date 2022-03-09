@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import PlaylistPlayer from "../components/playlistPlayer"
 
 const AboutPage = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title
@@ -26,12 +27,13 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
                 <li>Other players: Subscribe via <a href="https://feeds.captivate.fm/clock-spinning/">RSS feed</a></li>
-                <li>Or, listen on the web from any of the episode pages on our homepage</li>
+                <li>Or, listen on the web at the bottom of this page</li>
               </ul>
 
               <p>Currently we're building a cube for the original Kamigawa block. Our list on <a href="https://cubecobra.com/cube/overview/clock-spinning-chk">Cube Cobra</a> gets updated as each episode goes live, so you can follow along as we rate cards and evolve the list. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show.</p>
 
               <p>The best way to get in touch is email. You can reach either of us at clock[dot]spinning[dot]podcast[at]gmail[dot].com.</p>
+            <PlaylistPlayer />
             </article>
         </Layout>
     )
