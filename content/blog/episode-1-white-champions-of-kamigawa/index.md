@@ -1,6 +1,7 @@
 ---
 title: "001: Reviewing every White card in Champions of Kamigawa for cube"
 date: "2022-02-21T09:01:00"
+captivate_link: https://player.captivate.fm/episode/de9770e3-345c-48bd-834b-977d4b876fca
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/1c6a236e-3319-4ac3-8690-3e85e7b3e7d7/clock-spinning-001-white-card-review%E2%80%94champions-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/001-white-card-review-champions-of-kamigawa/id1611106302?i=1000553391611
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAxLXRoZS13aGl0ZS1jYXJkcy1vZi1jaGFtcGlvbnMtb2Yta2FtaWdhd2EtNjQxN2NkZDQwNQ?sa=X&ved=0CAUQkfYCahcKEwiQuO2S3pf2AhUAAAAAHQAAAAAQNQ
@@ -9,8 +10,6 @@ spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/clock-spinning-001-the-white-cards-of-champions-of-kamigawa-90657423
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
-
-<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow: hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/de9770e3-345c-48bd-834b-977d4b876fca"></iframe></div>
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
 
@@ -28,7 +27,7 @@ For this and every set review episode, we'll share a post like this one to provi
 
 Without further ado, the white cards of Champions of Kamigawa!
 
-## The Cards
+## Cards reviewed in today's episode
 
 - Blessed Breath - 22:48
 - Bushi Tenderfoot // Kenzo the Hardhearted - 28:47

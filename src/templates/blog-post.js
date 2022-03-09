@@ -27,6 +27,7 @@ const BlogPostTemplate = ({ data, location }) => {
         </header>
         <episodeLinks>
           <hr/>
+        <div style={{width: "100%", height: "200px", marginBottom: "20px", borderRadius: "6px", overflow: "hidden"}}><iframe style={{width: "100%", height: "200px"}} frameborder="no" scrolling="no" seamless src={post.frontmatter.captivate_link}></iframe></div>
           <p>
             <i>
               Check out this episode in your podcast player:
@@ -147,6 +148,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM Do, YYYY")
         description
+        captivate_link
         amazon_music
         apple_podcasts
         google_podcasts
