@@ -18,7 +18,7 @@ const AboutPage = ({ data, location }) => {
               <p>Clock Spinning is a podcast about the history of Magic: the Gathering, as told card-by-card through <a href="https://mtg.fandom.com/wiki/Cube_Draft">cube</a>. Join Austin and Connor on a deep dive into the vault of Magic history, and come along for the ride as they build cubes that capture all the feels of some of Magic’s most fun and iconic sets.</p>
 
               <p>Currently we're building a cube for the original Kamigawa block. Our list on <a href="https://cubecobra.com/cube/overview/clock-spinning-chk">Cube Cobra</a> gets updated as each episode goes live, so you can follow along as we rate cards and evolve the list. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show.</p>
-
+            <h4>Contact us</h4>
               <p>The best way to get in touch is email. You can reach either of us at clock[dot]spinning[dot]podcast[at]gmail[dot].com.</p>
             <h4>Listen to the show</h4>
             <p>The easiest way to listen is to subscribe in your favorite podcast app:</p>
@@ -35,7 +35,7 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a> (not showing the latest episode right now, should be fixed soon)</li>
                 <li>Other players: Subscribe via <a href="https://feeds.captivate.fm/clock-spinning/">RSS feed</a></li>
               </ul>
-            <p>Or, if you want to get a taste, you can listen right here on the web:</p>
+            <h4>Listen on the web</h4>
             <PlaylistPlayer />
             </article>
         </Layout>
