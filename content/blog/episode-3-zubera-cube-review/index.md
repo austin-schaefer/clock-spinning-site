@@ -4,14 +4,12 @@ date: "2022-03-08T21:01:00"
 captivate_link: https://player.captivate.fm/episode/6d34ac7f-9825-4727-80cd-1e2745904abc
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/791f1bf4-ce92-4a15-8291-448cd2720fd3/clock-spinning-003-zubera-special
 apple_podcasts: https://podcasts.apple.com/us/podcast/003-zubera-special/id1611106302?i=1000553391646
-google_podcasts: 
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NmQzNGFjN2YtOTgyNS00NzI3LTgwY2QtMWUyNzQ1OTA0YWJj?sa=X&ved=0CAgQuIEEahcKEwiA5pmKvsP2AhUAAAAAHQAAAAAQLA
 overcast: https://overcast.fm/+4EdQ5xMjI
 spotify: https://open.spotify.com/episode/0Xwy2yymJKwVZmiGXbb8iG
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/003-zubera-special-201151912
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
-
-(Apologies, the Google Podcasts and Stitcher links are broken right now as we migrate hosting providers.)
 
 This week, we're taking a brief break from our Champions of Kamigawa set reviews to bring you a short(er) episode on some of Connor's favorite cards in the set -- the Zuberas! If you want to learn how to set up a one-turn-kill combo involving these frightening spirit friends, or if you just share our love for the handful of cards in Magic's history to carry the great honor of the Zubera creature type, check out Episode 3 now, where we'll also be sharing some of the great comments and feedback we've received from our listeners.
 

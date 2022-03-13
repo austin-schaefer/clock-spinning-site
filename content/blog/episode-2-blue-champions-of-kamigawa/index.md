@@ -4,7 +4,7 @@ date: "2022-03-01T23:01:00"
 captivate_link: https://player.captivate.fm/episode/27db8528-443b-4458-b1c1-c8773dcff0b5
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/b1754e52-8e0d-4b83-a05e-0305a4846db9/clock-spinning-002-blue-card-review%E2%80%94champions-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/002-blue-card-review-champions-of-kamigawa/id1611106302?i=1000553391887
-google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvZmVlZA/episode/aHR0cHM6Ly93d3cubXRnY2FzdC5jb20vcG9kY2FzdHMvY2xvY2stc3Bpbm5pbmcvcG9zdHMvMDAyLXRoZS1ibHVlLWNhcmRzLW9mLWNoYW1waW9ucy1vZi1rYW1pZ2F3YS04NzVjNGE5Zjg0?sa=X&ved=0CAUQkfYCahcKEwig9PTb26f2AhUAAAAAHQAAAAAQAQ
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MjdkYjg1MjgtNDQzYi00NDU4LWIxYzEtYzg3NzNkY2ZmMGI1?sa=X&ved=0CAgQuIEEahcKEwiA5pmKvsP2AhUAAAAAHQAAAAAQLA
 overcast: https://overcast.fm/+4EdSLv3S0
 spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/002-blue-card-reviewchampions-of-kamigawa-201151914
