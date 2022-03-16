@@ -2,12 +2,12 @@
 title: "004: Reviewing the first 25 Black cards in Champions of Kamigawa for cube"
 date: "2022-03-15T21:01:00"
 captivate_link: https://player.captivate.fm/episode/aa913f5f-8f64-4f8b-be6f-1f01f8bb925c
-amazon_music: 
-apple_podcasts: 
-google_podcasts: 
-overcast: 
-spotify: 
-stitcher: 
+amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/93dc895a-1b62-439f-a3ff-340e97df3f30/clock-spinning-004-chk-black-review-part-1-champions-of-kamigawa
+apple_podcasts: https://podcasts.apple.com/us/podcast/004-chk-black-review-part-1-champions-of-kamigawa/id1611106302?i=1000554169662
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/YWE5MTNmNWYtOGY2NC00ZjhiLWJlNmYtMWYwMWY4YmI5MjVj?sa=X&ved=0CAUQkfYCahcKEwjIi9Dc4sr2AhUAAAAAHQAAAAAQAQ
+overcast: https://overcast.fm/+4EdTGIIg0
+spotify: https://open.spotify.com/episode/5QCiqEqjwLgFoikxbgkgtz
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/004-chk-black-review-part-1-champions-of-kamigawa-201437095
 archive: https://archive.org/details/clock-spinning-04-chk-black-part-1
 ---
 
