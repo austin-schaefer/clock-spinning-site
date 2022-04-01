@@ -1,5 +1,5 @@
 ---
-title: "005: Champions of Kamigawa for cube — Black part 2"
+title: "005: Champions of Kamigawa reviewed for cube — Black part 2"
 date: "2022-03-31T21:01:00"
 captivate_link: https://player.captivate.fm/episode/8721b73d-f40b-4e5a-841a-a8b07878e233
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/64895b5c-6d5f-44bf-9205-d4602674867a/clock-spinning-005-chk-black-review-part-2-champions-of-kamigawa
