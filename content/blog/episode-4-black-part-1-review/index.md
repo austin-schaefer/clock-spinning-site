@@ -1,5 +1,5 @@
 ---
-title: "004: Reviewing the first 25 Black cards in Champions of Kamigawa for cube"
+title: "004: Champions of Kamigawa reviewed for cube — Black part 1"
 date: "2022-03-15T21:01:00"
 captivate_link: https://player.captivate.fm/episode/aa913f5f-8f64-4f8b-be6f-1f01f8bb925c
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/93dc895a-1b62-439f-a3ff-340e97df3f30/clock-spinning-004-chk-black-review-part-1-champions-of-kamigawa
@@ -10,6 +10,8 @@ spotify: https://open.spotify.com/episode/5QCiqEqjwLgFoikxbgkgtz
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/004-chk-black-review-part-1-champions-of-kamigawa-201437095
 archive: https://archive.org/details/clock-spinning-04-chk-black-part-1
 ---
+
+## From Ashen-Skin Zubera to Midnight Covenant
 
 In this week's episode of Clock Spinning, we're rating and reviewing the first 25 black cards (alphabetically speaking) in Champions of Kamigawa. Listen in as we explore some of the set's most gruesome art, rate some of its most solid cards, and debate just how much fear we want to have in the cube. And for the true data obsessives, [check out our Kiku spreadsheet](https://docs.google.com/spreadsheets/d/1jyQg8sIezcvWJH5Lwyt014f8ODBm5IGrZItoRcndRmw/edit#gid=1592853001) to see which Kamigawa block creatures succumb to Kiku’s wiles.
 
