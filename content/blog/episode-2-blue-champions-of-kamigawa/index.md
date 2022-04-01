@@ -10,6 +10,7 @@ spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/002-blue-card-reviewchampions-of-kamigawa-201151914
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
+## From Aura of Dominion to Wandering Ones
 
 We're very excited to bring you another episode in our card-by-card set review of Champions of Kamigawa! In [Episode 1](https://clockspinning.com/episode-1-white-champions-of-kamigawa/), we rated all 50 white cards in Champions according to our **IMPAB** system. In today's episode, we're moving on to blue. Come along for our visit to [Minamo](https://mtg.fandom.com/wiki/Minamo), draw more cards than you'll know what to do with, and dare to listen to us speak about [The Unspeakable](https://scryfall.com/card/chk/98/the-unspeakable)!
 

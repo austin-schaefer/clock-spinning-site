@@ -11,6 +11,8 @@ stitcher: https://www.stitcher.com/show/clock-spinning/episode/003-zubera-specia
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
 
+## Silent-Chant, Floating-Dream, Ashen-Skin, Ember-Fist, Dripping-Tongue... and the other two Zubera too 
+
 This week, we're taking a brief break from our Champions of Kamigawa set reviews to bring you a short(er) episode on some of Connor's favorite cards in the set -- the Zuberas! If you want to learn how to set up a one-turn-kill combo involving these frightening spirit friends, or if you just share our love for the handful of cards in Magic's history to carry the great honor of the Zubera creature type, check out Episode 3 now, where we'll also be sharing some of the great comments and feedback we've received from our listeners.
 
 As always, we've updated our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra with our IMPAB ratings for all of the Zuberas. Feel free to take the cube for a test drive, and let us know if you pull off that OTK!

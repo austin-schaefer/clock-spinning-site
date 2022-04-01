@@ -10,6 +10,7 @@ spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
 stitcher: https://www.stitcher.com/show/clock-spinning/episode/001-white-card-reviewchampions-of-kamigawa-201151913
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
+## From Blessed Breath to Yosei, the Morning Star
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
 
