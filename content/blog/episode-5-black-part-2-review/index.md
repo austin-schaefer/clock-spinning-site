@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/005-chk-black-review-part-
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ODcyMWI3M2QtZjQwYi00ZTVhLTg0MWEtYThiMDc4NzhlMjMz?sa=X&ved=0CAUQkfYCahcKEwjw14Gqn_L2AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdTvb3Qk
 spotify: https://open.spotify.com/episode/0rEOdicV7JasdZg9mHXDBU
-stitcher: 
+stitcher: https://www.stitcher.com/show/clock-spinning/episode/005-chk-black-review-part-2-champions-of-kamigawa-201953003
 archive: https://archive.org/details/clock-spinning-005-chk-black-part-2
 ---
 
