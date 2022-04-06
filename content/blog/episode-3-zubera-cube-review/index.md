@@ -6,8 +6,8 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/003-zubera-special/id1611106302?i=1000553391646
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NmQzNGFjN2YtOTgyNS00NzI3LTgwY2QtMWUyNzQ1OTA0YWJj?sa=X&ved=0CAgQuIEEahcKEwiA5pmKvsP2AhUAAAAAHQAAAAAQLA
 overcast: https://overcast.fm/+4EdQ5xMjI
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F0df2ca0d-6a33-463c-9c31-1158afa0826c%2Fclock-spinning-episode-003-zubera-micro-episode.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/0Xwy2yymJKwVZmiGXbb8iG
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/003-zubera-special-201151912
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
 
