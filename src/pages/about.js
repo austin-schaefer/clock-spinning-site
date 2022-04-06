@@ -67,7 +67,6 @@ export const pageQuery = graphql`
           amazon_music
           google_podcasts
           overcast
-          stitcher
           spotify
           archive
         }
