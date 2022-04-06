@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/005-chk-black-review-part-
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ODcyMWI3M2QtZjQwYi00ZTVhLTg0MWEtYThiMDc4NzhlMjMz?sa=X&ved=0CAUQkfYCahcKEwjw14Gqn_L2AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdTvb3Qk
 spotify: https://open.spotify.com/episode/0rEOdicV7JasdZg9mHXDBU
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/005-chk-black-review-part-2-champions-of-kamigawa-201953003
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F861bee8d-f16a-42a7-8db8-752b3e719b37%2FClock-20Spinning-20005-20-20CHK-20Black-20Part-202.mp3&podcastId=3861161
 archive: https://archive.org/details/clock-spinning-005-chk-black-part-2
 ---
 
@@ -17,7 +17,7 @@ Clock Spinning is back in black! In this week's episode, we're rating and review
 
 If you'd like to follow along as we build the cube, check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, which we update with card ratings (and cuts) after each episode. You can always [try drafting the cube for yourself](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you're interested!
 
-On our next episode, we're hiking up into the Sokenzan Mountains to see just how weak this set can get. (Spoiler: Red is [pretty bad](https://scryfall.com/card/chk/157/ben-ben-akki-hermit)) If you have some thoughts, insights, or memories to share with us about the red cards of Kamigawa, or any other cards in the block, send us an email at clock[dot]spinning[dot]podcast[at]gmail[dot].com.
+On our next episode, we're hiking up into the Sokenzan Mountains to see just how weak this set can get. (Spoiler: Red is [pretty bad](https://scryfall.com/card/chk/157/ben-ben-akki-hermit)) If you have some thoughts, insights, or memories to share with us about the red cards of Kamigawa, or any other cards in the block, send us an email at clock [dot] spinning [dot] podcast [at] gmail [dot] com.
 
 ## Today's reviews and timestamps
 

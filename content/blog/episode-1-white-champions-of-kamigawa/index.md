@@ -7,7 +7,7 @@ apple_podcasts: https://podcasts.apple.com/us/podcast/001-white-card-review-cham
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ZGU5NzcwZTMtMzQ1Yy00OGJkLTgzNGItOTc3ZDRiODc2ZmNh?sa=X&ved=0CAgQuIEEahcKEwiA5pmKvsP2AhUAAAAAHQAAAAAQLA
 overcast: https://overcast.fm/+4EdQi23pg
 spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/001-white-card-reviewchampions-of-kamigawa-201151913
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fb1d080a4-37d9-4bf8-8ef5-7b6560f35f5c%2Fclock-spinning-episode-001-champions-of-kamigawa-white.mp3&podcastId=3861161
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 ## From Blessed Breath to Yosei, the Morning Star

@@ -6,8 +6,8 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/004-chk-black-review-part-1-champions-of-kamigawa/id1611106302?i=1000554169662
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/YWE5MTNmNWYtOGY2NC00ZjhiLWJlNmYtMWYwMWY4YmI5MjVj?sa=X&ved=0CAUQkfYCahcKEwjIi9Dc4sr2AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdTGIIg0
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F61247fd7-5c25-4e6a-b88b-c4929c308e7e%2Fclock-spinning-04-chk-black-part-1.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/5QCiqEqjwLgFoikxbgkgtz
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/004-chk-black-review-part-1-champions-of-kamigawa-201437095
 archive: https://archive.org/details/clock-spinning-04-chk-black-part-1
 ---
 
@@ -19,7 +19,7 @@ There's just so much to discuss, so we've decided to try recording two episodes 
 
 Be sure to check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, which we've updated with our ratings (and cuts) from today's episode. You can always [try drafting the cube for yourself](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you're interested!
 
-On our next episode, we'll be finishing up with black. If you have any thoughts you'd like to share on the black cards of Kamigawa, or on red or green, shoot us an email at clock[dot]spinning[dot]podcast[at]gmail[dot].com.
+On our next episode, we'll be finishing up with black. If you have any thoughts you'd like to share on the black cards of Kamigawa, or on red or green, shoot us an email at clock [dot] spinning [dot] podcast [at] gmail [dot] com.
 
 ## Today's reviews and timestamps
 

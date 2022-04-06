@@ -6,8 +6,8 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/002-blue-card-review-champions-of-kamigawa/id1611106302?i=1000553391887
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MjdkYjg1MjgtNDQzYi00NDU4LWIxYzEtYzg3NzNkY2ZmMGI1?sa=X&ved=0CAgQuIEEahcKEwiA5pmKvsP2AhUAAAAAHQAAAAAQLA
 overcast: https://overcast.fm/+4EdSLv3S0
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F62cd6646-3bbc-4eae-9813-24aaf23ba5eb%2Fclock-spinning-episode-002-champions-of-kamigawa-blue.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
-stitcher: https://www.stitcher.com/show/clock-spinning/episode/002-blue-card-reviewchampions-of-kamigawa-201151914
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
 ## From Aura of Dominion to Wandering Ones
