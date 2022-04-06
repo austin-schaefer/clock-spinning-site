@@ -1,7 +1,7 @@
 ---
 title: "006: Champions of Kamigawa reviewed for cube — Red part 1"
 date: "2022-03-31T21:01:00"
-captivate_link: 
+captivate_link: https://player.captivate.fm/episode/1decf050-168d-4ff3-8995-11447de97b2a/
 amazon_music: 
 apple_podcasts: 
 google_podcasts: 
