@@ -1,6 +1,6 @@
 ---
 title: "006: Champions of Kamigawa reviewed for cube — Red part 1"
-date: "2022-03-31T21:01:00"
+date: "2022-04-05T21:01:00"
 captivate_link: https://player.captivate.fm/episode/1decf050-168d-4ff3-8995-11447de97b2a/
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/6b0e5317-68c2-473a-90a9-aea21b2a14fa/clock-spinning-006-chk-red-review-part-1-champions-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/006-chk-red-review-part-1-champions-of-kamigawa/id1611106302?i=1000556379075
