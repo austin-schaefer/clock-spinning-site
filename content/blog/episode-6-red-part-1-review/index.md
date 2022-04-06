@@ -21,29 +21,29 @@ Next week, we'll continue looking at red, for better or worse. (In Kamigawa red,
 
 ## Today's reviews and timestamps
 
-Akki Avalanchers - 2:23
-Akki Coalflinger - 9:10
-Akki Lavarunner // Tok-Tok, Volcano Born - 13:58
-Akki Rockspeaker - 18:17
-Akki Underminer - 20:19
-Battle-Mad Ronin - 23:22
-Ben-Ben, Akki Hermit - 31:04
-Blind with Anger - 37:29
-Blood Rites - 44:50
-Brothers Yamazaki - 48:18
-Brutal Deceiver - 58:37
-Crushing Pain - 1:02:06
-Desperate Ritual - 1:05:54
-Devouring Rage - 1:08:53
-Earthshaker - 1:12:15
-Ember-Fist Zubera - 1:15:35
-Frostwielder - 1:16:33
-Glacial Ray - 1:21:28
-Godo, Bandit Warlord - 1:25:35
-Hanabi Blast - 1:33:10
-Hearth Kami - 1:37:23
-Honden of Infinite Rage - 1:39:58
-Initiate of Blood // Goka the Unjust - 1:45:18
-Kami of Fire's Roar - 1:51:13
-Kiki-Jiki, Mirror Breaker - 1:51:13
-Outro & Amuse-Bouche - 2:01:33
++ Akki Avalanchers - 2:23
++ Akki Coalflinger - 9:10
++ Akki Lavarunner // Tok-Tok, Volcano Born - 13:58
++ Akki Rockspeaker - 18:17
++ Akki Underminer - 20:19
++ Battle-Mad Ronin - 23:22
++ Ben-Ben, Akki Hermit - 31:04
++ Blind with Anger - 37:29
++ Blood Rites - 44:50
++ Brothers Yamazaki - 48:18
++ Brutal Deceiver - 58:37
++ Crushing Pain - 1:02:06
++ Desperate Ritual - 1:05:54
++ Devouring Rage - 1:08:53
++ Earthshaker - 1:12:15
++ Ember-Fist Zubera - 1:15:35
++ Frostwielder - 1:16:33
++ Glacial Ray - 1:21:28
++ Godo, Bandit Warlord - 1:25:35
++ Hanabi Blast - 1:33:10
++ Hearth Kami - 1:37:23
++ Honden of Infinite Rage - 1:39:58
++ Initiate of Blood // Goka the Unjust - 1:45:18
++ Kami of Fire's Roar - 1:51:13
++ Kiki-Jiki, Mirror Breaker - 1:51:13
++ Outro & Amuse-Bouche - 2:01:33
