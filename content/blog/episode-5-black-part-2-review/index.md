@@ -17,7 +17,7 @@ Clock Spinning is back in black! In this week's episode, we're rating and review
 
 If you'd like to follow along as we build the cube, check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, which we update with card ratings (and cuts) after each episode. You can always [try drafting the cube for yourself](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you're interested!
 
-On our next episode, we're hiking up into the Sokenzan Mountains to see just how weak this set can get. (Spoiler: Red is [pretty bad](https://scryfall.com/card/chk/157/ben-ben-akki-hermit)) If you have some thoughts, insights, or memories to share with us about the red cards of Kamigawa, or any other cards in the block, send us an email at clock[dot]spinning[dot]podcast[at]gmail[dot].com.
+On our next episode, we're hiking up into the Sokenzan Mountains to see just how weak this set can get. (Spoiler: Red is [pretty bad](https://scryfall.com/card/chk/157/ben-ben-akki-hermit)) If you have some thoughts, insights, or memories to share with us about the red cards of Kamigawa, or any other cards in the block, send us an email at clock [dot] spinning [dot] podcast [at] gmail [dot] com.
 
 ## Today's reviews and timestamps
 

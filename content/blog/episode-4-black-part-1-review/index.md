@@ -19,7 +19,7 @@ There's just so much to discuss, so we've decided to try recording two episodes 
 
 Be sure to check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, which we've updated with our ratings (and cuts) from today's episode. You can always [try drafting the cube for yourself](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you're interested!
 
-On our next episode, we'll be finishing up with black. If you have any thoughts you'd like to share on the black cards of Kamigawa, or on red or green, shoot us an email at clock[dot]spinning[dot]podcast[at]gmail[dot].com.
+On our next episode, we'll be finishing up with black. If you have any thoughts you'd like to share on the black cards of Kamigawa, or on red or green, shoot us an email at clock [dot] spinning [dot] podcast [at] gmail [dot] com.
 
 ## Today's reviews and timestamps
 
