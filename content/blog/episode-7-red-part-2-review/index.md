@@ -3,11 +3,11 @@ title: "007: Champions of Kamigawa reviewed for cube — Red part 2"
 date: "2022-04-14T21:01:00"
 captivate_link: https://player.captivate.fm/episode/7d132f03-7225-47ee-baa3-8d736bf768e6
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/89e0159d-6807-4e89-9de7-fb866b858d84/clock-spinning-007-chk-red-review-part-2-champions-of-kamigawa
-apple_podcasts: 
+apple_podcasts: https://podcasts.apple.com/us/podcast/007-chk-red-review-part-2-champions-of-kamigawa/id1611106302?i=1000557580456
 google_podcasts: 
 overcast: 
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F8d50140b-0c4c-4814-addc-13e6a6d63825%2FClock-20Spinning-20Episode-20007-20-20Champions-20of-20Kamigawa.mp3&podcastId=3861161
-spotify: 
+spotify: https://open.spotify.com/episode/7Kp5PAgZhoOtdCszilpYeL
 archive: https://archive.org/details/clock-spinning-episode-007-champions-of-kamigawa-red-part-2
 ---
 
