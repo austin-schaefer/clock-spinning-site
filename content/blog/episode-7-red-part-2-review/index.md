@@ -15,7 +15,7 @@ archive: https://archive.org/details/clock-spinning-episode-007-champions-of-kam
 
 This week on Clock Spinning, we're closing out our two-part review of every red card in Champions of Kamigawa, from the [mightiest yamabushi](https://scryfall.com/card/chk/176/kumano-master-yamabushi) to [Zo-Zu the Punisher](https://scryfall.com/card/chk/200/zo-zu-the-punisher), our one and only Akki in today's episode. Join us as we explore the best--and the worst--red has to offer in Champions.
 
-Please check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, and take it out for a [playtest]((https://cubecobra.com/cube/playtest/clock-spinning-chk) if you want a hands-on experience with Clock Spinning. As always, we've updated the cube with all of this episode's IMPAB ratings and cuts.
+Please check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, and take it out for a [playtest](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you want a hands-on experience with Clock Spinning. As always, we've updated the cube with all of this episode's IMPAB ratings and cuts.
 
 Next week, we'll be searching the forests of Kamigawa for snakes, spirits, and [beefy monks](https://scryfall.com/card/chk/214/humble-budoka), and we'd love to hear from you. If there are any green cards in Champions that hold a special place in your heart, let us know! You can reach us by email at clock[dot]spinning[dot]podcast[at]gmail[dot].com, or comment on our posts over at the [MagicTCG](https://www.reddit.com/r/magicTCG/) and [MTGCube](https://www.reddit.com/r/mtgcube/) subreddits.
 
