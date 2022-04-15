@@ -67,8 +67,8 @@ const BlogPostTemplate = ({ data, location }) => {
             </li>
             <li>•</li>
             <li>
-                Podcast Addict
               <Link to={post.frontmatter.podcast_addict} itemProp="url">
+                Podcast Addict
               </Link>
             </li>
             <li>•</li>
