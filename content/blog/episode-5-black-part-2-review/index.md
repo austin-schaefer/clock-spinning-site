@@ -11,7 +11,7 @@ podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captiva
 archive: https://archive.org/details/clock-spinning-005-chk-black-part-2
 ---
 
-## From Myojin of Night's Reach to Wicked Akuba
+![Ragged Veins art](./chk-139-ragged-veins.jpg)
 
 Clock Spinning is back in black! In this week's episode, we're rating and reviewing the back half of black in Champions of Kamigawa, ranging from [Myojin of Night's Reach](https://scryfall.com/card/chk/126/myojin-of-nights-reach) all the way through to the oh-so-[Wicked Akuba](https://scryfall.com/card/chk/150/wicked-akuba). Buckle up for thrills, chills, and even more revolting art (and maybe a gross story or two)!
 
@@ -46,3 +46,5 @@ On our next episode, we're hiking up into the Sokenzan Mountains to see just how
 - Villainous Ogre - 1:35:49
 - Waking Nightmare - 1:39:52
 - Wicked Akuba - 1:40:42
+
+_Image credit: Ragged Veins by Chippy, © Wizards of the Coast_
