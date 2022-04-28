@@ -2,12 +2,12 @@
 title: "008: Champions of Kamigawa reviewed for cube — Green part 1"
 date: "2022-04-27T21:01:00"
 captivate_link: https://player.captivate.fm/episode/4eba2925-3df9-49da-968d-908eb92e7402/
-amazon_music: 
-apple_podcasts: 
-google_podcasts: 
-overcast: 
-podcast_addict: 
-spotify: 
+amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/bda1136a-83d3-4b90-af7f-a3613de6e19d/clock-spinning-008-chk-green-review-part-1-champions-of-kamigawa
+apple_podcasts: https://podcasts.apple.com/us/podcast/008-chk-green-review-part-1-champions-of-kamigawa/id1611106302?i=1000558927679
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NGViYTI5MjUtM2RmOS00OWRhLTk2OGQtOTA4ZWI5MmU3NDAy?sa=X&ved=0CAUQkfYCahcKEwjQz5r937X3AhUAAAAAHQAAAAAQAQ
+overcast: https://overcast.fm/+4EdQY8nIc
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F3ea63521-a9b7-4b50-bdbd-84d19e80ef26%2FClock-20Spinning-20Episode-20008-20-20Champions-20of-20Kamigawa.mp3&podcastId=3861161
+spotify: https://open.spotify.com/episode/3npR6syTv7gSfJCPv34Mo0
 archive: https://archive.org/details/clock-spinning-episode-008-champions-of-kamigawa-green-part-1
 ---
 
