@@ -29,7 +29,7 @@ If you know someone who might enjoy the show, please let them know about us! We'
 - [Snakes in Kamigawa Block Constructed](https://articles.starcitygames.com/articles/snakes-in-kamigawa-block-constructed/) by Zvi Mowshowitz
 - [Adam Rex arts](https://scryfall.com/search?q=a%3A%22adam%20rex%22%20(horde%20OR%20igneous%20OR%20hourglass)) for Horde of Notions, Igneous Golem, and Infinite Hourglass
 - [Gatherer comment](https://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=75367#ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_popularPosts_postsRepeater_ctl06_post) on Rootrunner + Gift of Immortality combo
--[Russian-language blog post](https://e-magic.blogspot.com/) on Shisato + Yosei control deck
+- [Russian-language blog post](https://e-magic.blogspot.com/) on Shisato + Yosei control deck
 - The iconic three [Vizzerdrix printings](https://scryfall.com/search?q=vizzerdrix+%2B%2B+-e%3As99+-e%3As00) of our youth
 
 ## Featured on Today's Episode
