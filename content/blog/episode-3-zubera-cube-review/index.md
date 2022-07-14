@@ -19,7 +19,7 @@ As always, we've updated our [Kamigawa Block Cube](https://cubecobra.com/cube/ov
 
 If you're just joining us here at [Clock Spinning](https://clockspinning.com/about), you may want to start at [Episode 1](https://clockspinning.com/episode-1-white-champions-of-kamigawa/), where we rated all 50 white cards in Champions according to our IMPAB system. We continued that journey in [Episode 2](https://clockspinning.com/episode-2-blue-champions-of-kamigawa/) by looking at the set's blue cards.
 
-Next week, we'll be back on the set review grind to look at the black cards of Champions of Kamigawa! We can't wait to dive into what might be the strongest color in this set, and we would love to hear from you if you have any thoughts, memories, or insights to share about these creepy cards. You can find a list of all 50 black cards in Champions [here](https://scryfall.com/search?as=grid&order=name&q=color%3DB+set%3Achk), so take a look and send us an email at clock[dot]spinning[dot]podcast[at]gmail[dot].com.
+Next week, we'll be back on the set review grind to look at the black cards of Champions of Kamigawa! We can't wait to dive into what might be the strongest color in this set, and we would love to hear from you if you have any thoughts, memories, or insights to share about these creepy cards. You can find a list of all 50 black cards in Champions [here](https://scryfall.com/search?as=grid&order=name&q=color%3DB+set%3Achk), so take a look and send us an email at clock.spinning.podcast@gmail.com.
 
 ## Featured on today's episode
 

@@ -19,7 +19,7 @@ const AboutPage = ({ data, location }) => {
 
               <p>Currently we're building a cube for the original Kamigawa block. Our list on <a href="https://cubecobra.com/cube/overview/clock-spinning-chk">Cube Cobra</a> gets updated as each episode goes live, so you can follow along as we rate cards and evolve the list. We'd love if you give it a draft and send us your feedback, or if you have memories to share of any of our upcoming cards send us an email and we'll share them on the show.</p>
             <h4>Contact us</h4>
-              <p>The best way to get in touch is email. You can reach either of us at clock[dot]spinning[dot]podcast[at]gmail[dot].com.</p>
+              <p>The best way to get in touch is email. You can reach either of us at clock.spinning.podcast@gmail.com.</p>
             <h4>Listen to the show</h4>
             <p>The easiest way to listen is to subscribe in your favorite podcast app:</p>
 
