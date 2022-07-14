@@ -17,7 +17,7 @@ In today's episode of Clock Spinning, Austin and Connor delve into the Jukai For
 
 Be sure to take a look at our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, and try [playtesting it](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you want a more hands-on experience with Clock Spinning. We update the cube with our IMPAB ratings and cuts after each episode.
 
-In our next episode, we'll be finishing up with green, which means we're almost done with Champions! If you have any parting thoughts or stories to share with us about any of the cards we'll discuss next time, we would love to hear them! Here's a handy spoiler showing [next episode's cards](https://scryfall.com/search?q=e%3Dchk+c%3Dg+cn%3E%3D226&unique=cards&as=grid&order=name). You can reach us by email at clock[dot]spinning[dot]podcast[at]gmail[dot].com, or find us over on the [MagicTCG](https://www.reddit.com/r/magicTCG/) and [MTGCube](https://www.reddit.com/r/mtgcube/) subreddits.
+In our next episode, we'll be finishing up with green, which means we're almost done with Champions! If you have any parting thoughts or stories to share with us about any of the cards we'll discuss next time, we would love to hear them! Here's a handy spoiler showing [next episode's cards](https://scryfall.com/search?q=e%3Dchk+c%3Dg+cn%3E%3D226&unique=cards&as=grid&order=name). You can reach us by email at clock.spinning.podcast@gmail.com, or find us over on the [MagicTCG](https://www.reddit.com/r/magicTCG/) and [MTGCube](https://www.reddit.com/r/mtgcube/) subreddits.
 
 If you know someone who might enjoy the show, please let them know about us! We'd love to reach more fans of Kamigawa, cube, and just chatting about Magic cards.
 

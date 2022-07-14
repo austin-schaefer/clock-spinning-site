@@ -19,7 +19,7 @@ We're back! Today on Clock Spinning, we're finishing up our exploration of the g
 
 You can check out our [Kamigawa Block Cube](https://cubecobra.com/cube/overview/clock-spinning-chk) over on Cube Cobra, and try [playtesting it](https://cubecobra.com/cube/playtest/clock-spinning-chk) if you want a more hands-on experience with Clock Spinning. We update the cube with our IMPAB ratings and cuts after each episode.
 
-In our next episode, we'll be unearthing Kamigawa's artifacts and traveling its lands to finish our Champions of Kamigawa set review! If you'd like to share any thoughts or stories, you can reach us by email at clock[dot]spinning[dot]podcast[at]gmail[dot].com, or find us over on the [MagicTCG](https://www.reddit.com/r/magicTCG/) and [MTGCube](https://www.reddit.com/r/mtgcube/) subreddits.
+In our next episode, we'll be unearthing Kamigawa's artifacts and traveling its lands to finish our Champions of Kamigawa set review! If you'd like to share any thoughts or stories, you can reach us by email at clock.spinning.podcast@gmail.com, or find us over on the [MagicTCG](https://www.reddit.com/r/magicTCG/) and [MTGCube](https://www.reddit.com/r/mtgcube/) subreddits.
 
 If you know someone who might enjoy the show, please let them know about us! We'd love to reach more fans of Kamigawa, cube, and just chatting about Magic cards.
 
