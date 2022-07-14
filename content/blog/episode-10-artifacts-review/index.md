@@ -5,9 +5,9 @@ captivate_link: https://player.captivate.fm/episode/2e8ea066-d57a-4711-8c0f-7f86
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/c9b46b3a-2527-4269-a144-0fab6ee3b79e/clock-spinning-010-chk-artifacts-review-champions-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/010-chk-artifacts-review-champions-of-kamigawa/id1611106302?i=1000569864048
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MmU4ZWEwNjYtZDU3YS00NzExLThjMGYtN2Y4NmZkNjkzMzk1?sa=X&ved=0CAUQkfYCahcKEwiQic3p3ff4AhUAAAAAHQAAAAAQAQ
-overcast:
+overcast: https://overcast.fm/+4EdT5e_2w
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F7bd1c8d8-6ede-4e52-8292-f563139b7630%2FClock-20Spinning-20Episode-20010-20-20Champions-20of-20Kamigawa-converted.mp3&podcastId=3861161
-spotify:
+spotify: https://open.spotify.com/episode/5sgLZrh7oB9gubzsg887hv
 archive: https://archive.org/details/clock-spinning-episode-010-champions-of-kamigawa-artifacts
 ---
 
