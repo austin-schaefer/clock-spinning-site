@@ -15,9 +15,9 @@ archive: https://archive.org/details/clock-spinning-episode-010-champions-of-kam
 
 ## 010: Reviewing the Artifacts of Champions of Kamigawa for cube
 
-In today's episode, Clock Spinning hits the double digits *and* finishes the non-land cards of Champions of Kamigawa! We'll talk about some [true icons](https://scryfall.com/card/chk/268/senseis-divining-top), [awesome swords](https://scryfall.com/card/chk/270/tatsumasa-the-dragons-fang) from the early days of Equipment in Magic, and some real [head-scratchers](https://scryfall.com/card/chk/269/shell-of-the-last-kappa).
+In today's episode, Clock Spinning hits the double digits *and* finishes the non-land cards of Champions of Kamigawa! CHK's twenty-two artifacts (all of them uncommon or rare!) paid the price for the wildly broken artifacts of Mirrodin, the block that came before Kamigawa. We'll talk about some [true icons](https://scryfall.com/card/chk/268/senseis-divining-top), [awesome swords](https://scryfall.com/card/chk/270/tatsumasa-the-dragons-fang) from the early days of Equipment in Magic, and some real [head-scratchers](https://scryfall.com/card/chk/269/shell-of-the-last-kappa).
 
-In case you're just tuning in to the show, our goal with this card-by-card review of CHK is to build a cube that captures the essence of this unique and strange set. We rate every card in the set according to our IMPAB rating system, which stands for:
+In case you're just tuning in to the show, our goal with this card-by-card review of CHK is to build a cube that captures the essence of this unique and strange set. Along the way, we explore the art, flavor, and history behind the cards. Every card we talk about is rated according to our IMPAB rating system, which stands for:
 
  - Insta-cut
  - Meh
