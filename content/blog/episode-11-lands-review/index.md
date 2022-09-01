@@ -3,10 +3,10 @@ title: "011: Champions of Kamigawa reviewed for cube — Lands"
 date: "2022-08-31T21:09:00"
 captivate_link: https://player.captivate.fm/episode/3fd3d103-4819-431f-a3e8-0604cc6bcb78
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/e8a892e5-61c7-4e95-96ff-ef2932f8f0b1/clock-spinning-011-chk-lands-review-champions-of-kamigawa
-apple_podcasts: 
+apple_podcasts: https://podcasts.apple.com/us/podcast/011-chk-lands-review-champions-of-kamigawa/id1611106302?i=1000578004886
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/M2ZkM2QxMDMtNDgxOS00MzFmLWEzZTgtMDYwNGNjNmJjYjc4?sa=X&ved=0CAUQkfYCahcKEwjI3Y3dg_P5AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdTbUfsY
-podcast_addict: 
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F7bdf7a39-32fd-4c87-b32e-05404be7ef6a%2FClock-20Spinning-20Episode-20011-20-20Champions-20of-20Kamigawa-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/0AVKp057FbrTTHEruLgaYu
 archive: https://archive.org/details/clock-spinning-episode-011-champions-of-kamigawa-lands
 ---
