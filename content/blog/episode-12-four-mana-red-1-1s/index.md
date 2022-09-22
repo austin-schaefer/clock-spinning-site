@@ -5,7 +5,7 @@ captivate_link: https://player.captivate.fm/episode/45f4fb9e-c576-424c-acc1-f169
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/b98671e2-d11f-43e9-8478-3af1083dee23/clock-spinning%E2%80%94magic-the-gathering-history-012-four-mana-red-1-1s
 apple_podcasts: https://podcasts.apple.com/us/podcast/012-four-mana-red-1-1s/id1611106302?i=1000580267470
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NDVmNGZiOWUtYzU3Ni00MjRjLWFjYzEtZjE2OTA2MTFmNDgy
-overcast: 
+overcast: https://overcast.fm/+4EdSg6_WI
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fb94a7fed-feec-48c4-8223-6bac68f7c6f8%2FClock-20Spinning-20Episode-20012-20-20Four-20Mana-20Red-201-1s-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/2DkiVsloIcC0jdSQzgjJY7
 archive: https://archive.org/details/clock-spinning-episode-012-four-mana-red-1-1s
