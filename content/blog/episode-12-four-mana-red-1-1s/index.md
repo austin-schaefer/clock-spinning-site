@@ -11,7 +11,7 @@ spotify: https://open.spotify.com/episode/2DkiVsloIcC0jdSQzgjJY7
 archive: https://archive.org/details/clock-spinning-episode-012-four-mana-red-1-1s
 ---
 
-![Goblin Snowman](./tsb-64-goblin-snowman)
+![Goblin Snowman](./tsb-64-goblin-snowman.jpg)
 
 ## 012: Reviewing EVERY red 4-mana 1/1 in Magic: the Gathering
 
