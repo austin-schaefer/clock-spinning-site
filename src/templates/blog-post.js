@@ -1,5 +1,14 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+//Import podcasts logos
+import amazonPodcastsLogo from "./icons/amazon_podcasts.png"
+import applePodcastsLogo from "./icons/apple_podcasts.png"
+import googlePodcastsLogo from "./icons/google_podcasts.png"
+import overcastLogo from "./icons/overcast.png"
+import podcastAddictLogo from "./icons/podcast_addict.png"
+import spotifyLogo from "./icons/spotify.png"
+import youtubeLogo from "./icons/youtube.png"
+import archiveLogo from "./icons/archive.png"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -36,26 +45,31 @@ const BlogPostTemplate = ({ data, location }) => {
           <ul
             style={{
               display: `flex`,
+              flexWrap: `wrap`,
               justifyContent: `space-between`,
               listStyle: `none`,
             }}
           >
             <li>
+              <img src={amazonPodcastsLogo} alt="Amazon Podcasts Logo" />&nbsp;
               <Link to={post.frontmatter.amazon_music} itemProp="url">
                 Amazon Music
               </Link>
             </li>
             <li>
+              <img src={applePodcastsLogo} alt="Apple Podcasts Logo" />&nbsp;
               <Link to={post.frontmatter.apple_podcasts} itemProp="url">
                 Apple Podcasts
               </Link>
             </li>
             <li>
+              <img src={googlePodcastsLogo} alt="Google Podcasts Logo" />&nbsp;
               <Link to={post.frontmatter.google_podcasts} itemProp="url">
                 Google Podcasts
               </Link>
             </li>
             <li>
+              <img src={overcastLogo} alt="Overcast Logo" />&nbsp;
               <Link to={post.frontmatter.overcast} itemProp="url">
                 Overcast
               </Link>
@@ -64,26 +78,31 @@ const BlogPostTemplate = ({ data, location }) => {
           <ul
             style={{
               display: `flex`,
+              flexWrap: `wrap`,
               justifyContent: `space-between`,
               listStyle: `none`,
             }}
           >
             <li>
+              <img src={podcastAddictLogo} alt="Podcast Addict Logo" />&nbsp;
               <Link to={post.frontmatter.podcast_addict} itemProp="url">
                 Podcast Addict
               </Link>
             </li>
             <li>
+              <img src={spotifyLogo} alt="Spotify Logo" />&nbsp;
               <Link to={post.frontmatter.spotify} itemProp="url">
                 Spotify
               </Link>
             </li>
             <li>
+              <img src={youtubeLogo} alt="YouTube Logo" />&nbsp;
               <Link to={post.frontmatter.youtube} itemProp="url">
                 YouTube
               </Link>
             </li>
             <li>
+              <img src={archiveLogo} alt="Archive.org Logo" />&nbsp;
               <Link to={post.frontmatter.archive} itemProp="url">
                 Archive.org
               </Link>
