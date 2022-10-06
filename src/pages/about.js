@@ -35,6 +35,7 @@ const AboutPage = ({ data, location }) => {
                 <li><a href="https://open.spotify.com/show/6L8vr81Ddni51Z25LiyeVi">Spotify</a></li>
                 <li><a href="https://www.stitcher.com/podcast/clock-spinning">Stitcher</a></li>
                 <li><a href="https://tunein.com/podcasts/Media--Entertainment-Podcasts/Clock-Spinning-p1644404/">TuneIn</a></li>
+                <li><a href="https://www.youtube.com/channel/UC9bHYd8E2Y4hJnZiu_4NBqw">YouTube</a></li>
                 <li>Other players: Subscribe via <a href="https://feeds.captivate.fm/clock-spinning/">RSS feed</a></li>
               </ul>
             <h4>Listen on the web</h4>
