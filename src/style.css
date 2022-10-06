@@ -338,10 +338,6 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
-.blog-post episodeLinks a {
-  color: var(--color-accent);
-}
-
 .blog-post episodeLinks ul {
   margin-bottom: var(--spacing-0);
 }
