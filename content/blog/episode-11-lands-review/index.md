@@ -8,6 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTbUfsY
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F7bdf7a39-32fd-4c87-b32e-05404be7ef6a%2FClock-20Spinning-20Episode-20011-20-20Champions-20of-20Kamigawa-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/0AVKp057FbrTTHEruLgaYu
+youtube: https://www.youtube.com/watch?v=uWLErze3K-s
 archive: https://archive.org/details/clock-spinning-episode-011-champions-of-kamigawa-lands
 ---
 
