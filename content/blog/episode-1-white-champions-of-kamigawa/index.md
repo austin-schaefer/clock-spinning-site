@@ -8,6 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQi23pg
 spotify: https://open.spotify.com/episode/5QcuqKC7RrQZa58Q8kZeUK
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fb1d080a4-37d9-4bf8-8ef5-7b6560f35f5c%2Fclock-spinning-episode-001-champions-of-kamigawa-white.mp3&podcastId=3861161
+youtube: https://www.youtube.com/watch?v=Gv6ionETUuA
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
 ![Candles' Glow art](./chk-5-candles-glow.jpg)

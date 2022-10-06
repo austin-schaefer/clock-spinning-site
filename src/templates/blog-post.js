@@ -79,6 +79,12 @@ const BlogPostTemplate = ({ data, location }) => {
             </li>
             <li>•</li>
             <li>
+              <Link to={post.frontmatter.youtube} itemProp="url">
+                YouTube
+              </Link>
+            </li>
+            <li>•</li>
+            <li>
               <Link to={post.frontmatter.archive} itemProp="url">
                 Archive.org
               </Link>

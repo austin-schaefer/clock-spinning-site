@@ -8,6 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdSLv3S0
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F62cd6646-3bbc-4eae-9813-24aaf23ba5eb%2Fclock-spinning-episode-002-champions-of-kamigawa-blue.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
+youtube: https://www.youtube.com/watch?v=zBJmO2hStNk&t=1s
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
 ![Meloku, the Clouded Mirror art](./cmr-399-meloku-the-clouded-mirror.jpg)
