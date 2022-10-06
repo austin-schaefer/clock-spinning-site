@@ -161,6 +161,7 @@ export const pageQuery = graphql`
         overcast
         podcast_addict
         spotify
+        youtube
         archive
       }
     }
