@@ -36,10 +36,8 @@ const BlogPostTemplate = ({ data, location }) => {
           <ul
             style={{
               display: `flex`,
-              flexWrap: `wrap`,
               justifyContent: `space-between`,
               listStyle: `none`,
-              padding: 0,
             }}
           >
             <li>
@@ -47,43 +45,44 @@ const BlogPostTemplate = ({ data, location }) => {
                 Amazon Music
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.apple_podcasts} itemProp="url">
                 Apple Podcasts
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.google_podcasts} itemProp="url">
                 Google Podcasts
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.overcast} itemProp="url">
                 Overcast
               </Link>
             </li>
-            <li>•</li>
+          </ul>
+          <ul
+            style={{
+              display: `flex`,
+              justifyContent: `space-between`,
+              listStyle: `none`,
+            }}
+          >
             <li>
               <Link to={post.frontmatter.podcast_addict} itemProp="url">
                 Podcast Addict
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.spotify} itemProp="url">
                 Spotify
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.youtube} itemProp="url">
                 YouTube
               </Link>
             </li>
-            <li>•</li>
             <li>
               <Link to={post.frontmatter.archive} itemProp="url">
                 Archive.org
