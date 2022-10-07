@@ -5,7 +5,7 @@ captivate_link: https://player.captivate.fm/episode/c40b8ee2-69de-4582-9ece-8bce
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/7076ab45-42f0-4412-8d97-9d89177f348c/clock-spinning%E2%80%94magic-the-gathering-history-013-7-mana-enchantments-part-1
 apple_podcasts: https://podcasts.apple.com/us/podcast/013-7-mana-enchantments-part-1/id1611106302?i=1000581883242
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/YzQwYjhlZTItNjlkZS00NTgyLTllY2UtOGJjZWM1MmJmYjY2?sa=X&ved=0CAUQkfYCahcKEwiA76OiuM36AhUAAAAAHQAAAAAQAQ
-overcast: 
+overcast: https://overcast.fm/+4EdTbYvCw
 podcast_addict: https://podcastaddict.com/episode/146221749
 spotify: https://open.spotify.com/episode/0m61PTROLytDfJHEiturf7
 youtube: https://youtu.be/Eh-WzUXVbuw
