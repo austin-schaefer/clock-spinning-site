@@ -6,7 +6,7 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/014-bok-white-part-1-betrayers-of-kamigawa/id1611106302?i=1000585729357
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ODA4ZDgzYjktMzI5MC00MGM3LWI1NWUtMDEzNjU2ZWQ1MGVi?sa=X&ved=0CAUQkfYCahcKEwjwzvLAiaP7AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdTxyoMA
-podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F74aca3b3-9993-4658-be19-d90fe975748a%2FClock-20Spinning-20Episode-20014-20-20BOK-20White-20Part-201-converted.mp3&podcastId=3861161
+podcast_addict: https://podcastaddict.com/episode/148211633
 spotify: https://open.spotify.com/episode/0r0nOaNVkiZqKDveGmVdEM
 youtube: https://youtu.be/IOeqwRgu1QI
 archive: https://archive.org/details/clock-spinning-episode-014-bok-white-part-1
