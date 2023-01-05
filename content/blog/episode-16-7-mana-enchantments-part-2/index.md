@@ -6,7 +6,7 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/016-7-mana-enchantments-part-2/id1611106302?i=1000592565798
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ZGE5MWZiOGMtMTE2NS00YjcxLTkyOTQtOGE3MzdiZTE2MmQy?sa=X&ved=0CAUQkfYCahcKEwiwzbjH8q_8AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdQBsULA
-podcast_addict: https://podcastaddict.com/podcast/3861161
+podcast_addict: https://podcastaddict.com/episode/151014952
 spotify: https://open.spotify.com/episode/2Ad5fXDj69UXauOcOkSQCV
 youtube: https://youtu.be/DwMzfBS_QVo
 archive: https://archive.org/details/clock-spinning-episode-016-7-mana-enchantments-part-2
