@@ -5,8 +5,8 @@ captivate_link: https://player.captivate.fm/episode/0cfea86c-3e05-4ed1-9db3-a6e2
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/85dacb28-5e61-43ad-8e25-e31eb9ed4e6a/clock-spinning%E2%80%94magic-the-gathering-history-017-bok-blue-part-1-betrayers-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/017-bok-blue-part-1-betrayers-of-kamigawa/id1611106302?i=1000595372162
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MGNmZWE4NmMtM2UwNS00ZWQxLTlkYjMtYTZlMjZiNjdjMjMz?sa=X&ved=0CAUQkfYCahcKEwjo9urqgtP8AhUAAAAAHQAAAAAQAQ
-overcast: 
-podcast_addict: 
+overcast: https://overcast.fm/itunes1611106302/clock-spinning-magic-the-gathering-history
+podcast_addict: https://podcastaddict.com/podcast/3861161
 spotify: https://open.spotify.com/episode/7Ij0MhFjohJ5E7mfC1ma0U
 youtube: https://youtu.be/MzVxNTf9-ow
 archive: https://archive.org/details/clock-spinning-episode-017-bok-blue-part-1
