@@ -1,6 +1,6 @@
 ---
 title: "017: Betrayers Blue Part 1—Betrayers of Kamigawa, Reviewed for Cube"
-date: "2022-01-18T21:09:00"
+date: "2023-01-18T21:09:00"
 captivate_link: https://player.captivate.fm/episode/0cfea86c-3e05-4ed1-9db3-a6e26b67c233
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/85dacb28-5e61-43ad-8e25-e31eb9ed4e6a/clock-spinning%E2%80%94magic-the-gathering-history-017-bok-blue-part-1-betrayers-of-kamigawa
 apple_podcasts: https://podcasts.apple.com/us/podcast/017-bok-blue-part-1-betrayers-of-kamigawa/id1611106302?i=1000595372162
