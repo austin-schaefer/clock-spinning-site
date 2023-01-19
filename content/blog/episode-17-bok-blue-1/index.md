@@ -6,7 +6,7 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/017-bok-blue-part-1-betrayers-of-kamigawa/id1611106302?i=1000595372162
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MGNmZWE4NmMtM2UwNS00ZWQxLTlkYjMtYTZlMjZiNjdjMjMz?sa=X&ved=0CAUQkfYCahcKEwjo9urqgtP8AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdQEYhU0
-podcast_addict: https://podcastaddict.com/podcast/3861161
+podcast_addict: https://podcastaddict.com/episode/151755911
 spotify: https://open.spotify.com/episode/7Ij0MhFjohJ5E7mfC1ma0U
 youtube: https://youtu.be/MzVxNTf9-ow
 archive: https://archive.org/details/clock-spinning-episode-017-bok-blue-part-1
