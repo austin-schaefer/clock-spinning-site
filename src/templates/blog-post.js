@@ -116,6 +116,82 @@ const BlogPostTemplate = ({ data, location }) => {
             itemProp="articleBody"
           />
         </blogPostBody>
+        <episodeLinks>
+          <hr/>
+        <div style={{width: "100%", height: "200px", marginBottom: "20px", borderRadius: "6px", overflow: "hidden"}}><iframe style={{width: "100%", height: "200px"}} frameborder="no" scrolling="no" seamless title="Play this episode in your browser" src={post.frontmatter.captivate_link}></iframe></div>
+          <p>
+            <i>
+              Check out this episode in your podcast player:
+            </i>
+          </p>
+          <ul
+            style={{
+              display: `flex`,
+              flexWrap: `wrap`,
+              justifyContent: `space-between`,
+              listStyle: `none`,
+            }}
+          >
+            <li>
+              <img src={amazonPodcastsLogo} alt="Amazon Podcasts Logo" />&nbsp;
+              <Link to={post.frontmatter.amazon_music} itemProp="url">
+                Amazon Music
+              </Link>
+            </li>
+            <li>
+              <img src={applePodcastsLogo} alt="Apple Podcasts Logo" />&nbsp;
+              <Link to={post.frontmatter.apple_podcasts} itemProp="url">
+                Apple Podcasts
+              </Link>
+            </li>
+            <li>
+              <img src={googlePodcastsLogo} alt="Google Podcasts Logo" />&nbsp;
+              <Link to={post.frontmatter.google_podcasts} itemProp="url">
+                Google Podcasts
+              </Link>
+            </li>
+            <li>
+              <img src={overcastLogo} alt="Overcast Logo" />&nbsp;
+              <Link to={post.frontmatter.overcast} itemProp="url">
+                Overcast
+              </Link>
+            </li>
+          </ul>
+          <ul
+            style={{
+              display: `flex`,
+              flexWrap: `wrap`,
+              justifyContent: `space-between`,
+              listStyle: `none`,
+            }}
+          >
+            <li>
+              <img src={podcastAddictLogo} alt="Podcast Addict Logo" />&nbsp;
+              <Link to={post.frontmatter.podcast_addict} itemProp="url">
+                Podcast Addict
+              </Link>
+            </li>
+            <li>
+              <img src={spotifyLogo} alt="Spotify Logo" />&nbsp;
+              <Link to={post.frontmatter.spotify} itemProp="url">
+                Spotify
+              </Link>
+            </li>
+            <li>
+              <img src={youtubeLogo} alt="YouTube Logo" />&nbsp;
+              <Link to={post.frontmatter.youtube} itemProp="url">
+                YouTube
+              </Link>
+            </li>
+            <li>
+              <img src={archiveLogo} alt="Archive.org Logo" />&nbsp;
+              <Link to={post.frontmatter.archive} itemProp="url">
+                Archive.org
+              </Link>
+            </li>
+          </ul>
+          <hr/>
+        </episodeLinks>
         <hr />
         <footer>
           <Bio />
