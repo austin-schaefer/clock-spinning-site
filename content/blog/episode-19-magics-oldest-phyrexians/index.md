@@ -5,8 +5,8 @@ captivate_link: https://player.captivate.fm/episode/cd3935c1-0a79-4606-9cbb-3cd8
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/967e1b35-e487-4a7d-9bf7-52bffae768a8/clock-spinning%E2%80%94magic-the-gathering-history-019-magic's-oldest-phyrexians
 apple_podcasts: https://podcasts.apple.com/us/podcast/019-magics-oldest-phyrexians/id1611106302?i=1000599878439
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/Y2QzOTM1YzEtMGE3OS00NjA2LTljYmItM2NkODUxNTkwYTQw?sa=X&ved=0CAUQkfYCahcKEwjghaq7sZn9AhUAAAAAHQAAAAAQAQ
-overcast: 
-podcast_addict: 
+overcast: https://overcast.fm/+4EdRHVk3k
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F6898c433-c42b-4625-998c-25e081a2ab93%2FClock-Spinning-Episode-019-Oldest-Phyrexians-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/7F5Z9kw58zf4p7in3NXNjF
 youtube: https://www.youtube.com/watch?v=lou56p-n6Ls
 archive: https://archive.org/details/clock-spinning-episode-019-oldest-phyrexians
