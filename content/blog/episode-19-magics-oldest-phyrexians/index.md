@@ -1,5 +1,5 @@
 ---
-title: "019: Magic's Oldest Phyrexians—Review, Trivia, and History"
+title: "019: Magic's Oldest Phyrexians — Review, Trivia, and History"
 date: "2023-02-15T21:09:00"
 captivate_link: https://player.captivate.fm/episode/cd3935c1-0a79-4606-9cbb-3cd851590a40
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/967e1b35-e487-4a7d-9bf7-52bffae768a8/clock-spinning%E2%80%94magic-the-gathering-history-019-magic's-oldest-phyrexians

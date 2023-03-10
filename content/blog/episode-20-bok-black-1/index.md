@@ -1,5 +1,5 @@
 ---
-title: "020: BOK Black Part 1—Betrayers of Kamigawa, Reviewed for Cube"
+title: "020: BOK Black Part 1 — Betrayers of Kamigawa, Reviewed for Cube"
 date: "2023-03-09T21:09:00"
 captivate_link: https://player.captivate.fm/episode/1389115f-f8ba-4522-853f-1c2faf01c288
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/d9977066-51e8-49c3-b861-02cb0dd3236f/
