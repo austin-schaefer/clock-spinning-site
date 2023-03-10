@@ -2,13 +2,13 @@
 title: "020: BOK Black Part 1—Betrayers of Kamigawa, Reviewed for Cube"
 date: "2023-03-09T21:09:00"
 captivate_link: https://player.captivate.fm/episode/1389115f-f8ba-4522-853f-1c2faf01c288
-amazon_music: 
-apple_podcasts:
-google_podcasts: 
-overcast:
-podcast_addict:
-spotify:
-youtube:
+amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/d9977066-51e8-49c3-b861-02cb0dd3236f/
+apple_podcasts: https://podcasts.apple.com/us/podcast/020-bok-black-part-1-betrayers-of-kamigawa/id1611106302?i=1000603535390
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MTM4OTExNWYtZjhiYS00NTIyLTg1M2YtMWMyZmFmMDFjMjg4
+overcast: https://overcast.fm/+4EdQGnkpo
+podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fa85697ec-2835-4bc2-9af4-58ab1ec6f040%2FClock-Spinning-Episode-020-BOK-Black-Part-1-converted.mp3&podcastId=3861161
+spotify: https://open.spotify.com/episode/6MERVaWst5sEMOB0EqMybI
+youtube: https://youtu.be/dOW4kbZ_qeo
 archive: https://archive.org/details/clock-spinning-episode-020-bok-black-part-1
 ---
 
