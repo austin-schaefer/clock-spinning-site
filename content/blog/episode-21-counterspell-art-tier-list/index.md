@@ -20,7 +20,7 @@ Join us and marvel at the many arts of Counterspell, featuring everything from [
 
 This is part of a new mini-series we're trying where we rate every piece of unique art ever printed on the cards that have received the most artistic love (or at least artistic attempts to convey abstract concepts).
 
-You can see all the art discussed in this episode [here](SCRYFALL SEARCH), or for an even better visual experience, check out our [YouTube channel](https://www.youtube.com/@clockspinning), where you can also experience all of our past episodes, with each card magically appearing on your screen as we discuss it!
+You can see all the art discussed in this episode [here](https://scryfall.com/search?q=counterspell+unique%3Aart+prefer%3Aoldest&order=released&dir=asc), or for an even better visual experience, check out our [YouTube channel](https://www.youtube.com/@clockspinning), where you can also experience all of our past episodes, with each card magically appearing on your screen as we discuss it!
 
 If you disagree with our aesthetic assessments (and we know you will!), let us know! We love hearing from listeners, even when we know it's because we got something wrong!
 
