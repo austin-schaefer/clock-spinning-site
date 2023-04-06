@@ -6,7 +6,7 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/021-counterspell-art-review/id1611106302?i=1000605492310
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ZGFmNmM5NzctYzFhYi00MDk0LTk3NGUtMDdiMjJmOThhYjJh?sa=X&ved=0CAUQkfYCahcKEwjguauno_H9AhUAAAAAHQAAAAAQAQ
 overcast: https://overcast.fm/+4EdRZ_9Ok
-podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F071ceaad-4395-4e6e-9ecf-013966d105c7%2FClock-Spinning-Episode-021-Counterspell-Art-Review-converted.mp3&podcastId=3861161
+podcast_addict: https://podcastaddict.com/episode/155074348
 spotify: https://open.spotify.com/episode/3Jwgx2sSKSJ1Kt7XROWM4j
 youtube: https://www.youtube.com/watch?v=899KkVCpekM
 archive: https://archive.org/details/clock-spinning-episode-021-counterspell-art-review
