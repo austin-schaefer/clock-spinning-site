@@ -35,11 +35,6 @@ const BlogPostTemplate = ({ data, location }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <episodeLinks>
-          <p>
-            <i>
-              Check out this episode in your podcast player:
-            </i>
-          </p>
           <ul
             style={{
               display: `flex`,
@@ -119,11 +114,6 @@ const BlogPostTemplate = ({ data, location }) => {
         <episodeLinks>
           <hr/>
         <div style={{width: "100%", height: "200px", marginBottom: "20px", borderRadius: "6px", overflow: "hidden"}}><iframe style={{width: "100%", height: "200px"}} frameborder="no" scrolling="no" seamless title="Play this episode in your browser" src={post.frontmatter.captivate_link}></iframe></div>
-          <p>
-            <i>
-              Check out this episode in your podcast player:
-            </i>
-          </p>
           <ul
             style={{
               display: `flex`,
