@@ -35,8 +35,6 @@ const BlogPostTemplate = ({ data, location }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <episodeLinks>
-          <hr/>
-        <div style={{width: "100%", height: "200px", marginBottom: "20px", borderRadius: "6px", overflow: "hidden"}}><iframe style={{width: "100%", height: "200px"}} frameborder="no" scrolling="no" seamless title="Play this episode in your browser" src={post.frontmatter.captivate_link}></iframe></div>
           <p>
             <i>
               Check out this episode in your podcast player:
@@ -97,7 +95,7 @@ const BlogPostTemplate = ({ data, location }) => {
             </li>
             <li>
               <img src={youtubeLogo} alt="YouTube Logo" />&nbsp;
-              <Link to={post.frontmatter.youtube} itemProp="url">
+              <Link to={`https://www.youtube.com/watch?v=${post.frontmatter.youtube}`} itemProp="url">
                 YouTube
               </Link>
             </li>
@@ -108,8 +106,10 @@ const BlogPostTemplate = ({ data, location }) => {
               </Link>
             </li>
           </ul>
-          <hr/>
         </episodeLinks>
+        <youtubeEmbed>
+          <iframe width="622" height="348" src={`https://www.youtube-nocookie.com/embed/${post.frontmatter.youtube}`} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </youtubeEmbed>
         <blogPostBody>
           <section
             dangerouslySetInnerHTML={{ __html: post.html }}
@@ -179,7 +179,7 @@ const BlogPostTemplate = ({ data, location }) => {
             </li>
             <li>
               <img src={youtubeLogo} alt="YouTube Logo" />&nbsp;
-              <Link to={post.frontmatter.youtube} itemProp="url">
+              <Link to={`https://www.youtube.com/watch?v=${post.frontmatter.youtube}`} itemProp="url">
                 YouTube
               </Link>
             </li>
@@ -192,7 +192,6 @@ const BlogPostTemplate = ({ data, location }) => {
           </ul>
           <hr/>
         </episodeLinks>
-        <hr />
         <footer>
           <Bio />
         </footer>
