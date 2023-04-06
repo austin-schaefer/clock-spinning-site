@@ -187,6 +187,7 @@ const BlogPostTemplate = ({ data, location }) => {
         </footer>
       </article>
       <nav className="blog-post-nav">
+        <hr/>
         <ul
           style={{
             display: `flex`,
