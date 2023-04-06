@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQ7C5Ts
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fdbfecde7-db71-40f9-a41a-ff83c8df226f%2FClock-20Spinning-20Episode-20006-20-20Champions-20of-20Kamigawa.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/34R70ghLV4l0wXFoyR9Stu
-youtube: https://www.youtube.com/watch?v=H4TseUikrUs&t=50s
+youtube: H4TseUikrUs
 archive: https://clockspinning.com/episode-6-red-part-1-review/
 ---
 

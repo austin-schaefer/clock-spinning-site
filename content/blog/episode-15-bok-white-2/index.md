@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTg6MAA
 podcast_addict: https://podcastaddict.com/episode/148571384
 spotify: https://open.spotify.com/episode/1XbvwQ5MTlpvYDiUvyPkM2
-youtube: https://www.youtube.com/watch?v=u-4NsU-tLoU
+youtube: u-4NsU-tLoU
 archive: https://archive.org/details/clock-spinning-episode-015-bok-white-part-2
 ---
 

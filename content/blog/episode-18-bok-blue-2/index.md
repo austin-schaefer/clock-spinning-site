@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQMPj64
 podcast_addict: https://podcastaddict.com/episode/152445222
 spotify: https://open.spotify.com/episode/676gRWhDWdafQ5d2kodYeg
-youtube: https://www.youtube.com/watch?v=7McHRssSwMc
+youtube: 7McHRssSwMc
 archive: https://archive.org/details/clock-spinning-episode-018-bok-blue-part-2
 ---
 

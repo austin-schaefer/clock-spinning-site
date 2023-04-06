@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdRHVk3k
 podcast_addict: https://podcastaddict.com/episode/153228969
 spotify: https://open.spotify.com/episode/7F5Z9kw58zf4p7in3NXNjF
-youtube: https://www.youtube.com/watch?v=lou56p-n6Ls
+youtube: lou56p-n6Ls
 archive: https://archive.org/details/clock-spinning-episode-019-oldest-phyrexians
 ---
 

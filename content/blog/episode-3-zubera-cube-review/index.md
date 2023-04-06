@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQ5xMjI
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F0df2ca0d-6a33-463c-9c31-1158afa0826c%2Fclock-spinning-episode-003-zubera-micro-episode.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/0Xwy2yymJKwVZmiGXbb8iG
-youtube: https://www.youtube.com/watch?v=kZcJ7U3Km5g&t=742s
+youtube: kZcJ7U3Km5g
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
 

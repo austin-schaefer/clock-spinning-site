@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQGnkpo
 podcast_addict: https://podcastaddict.com/episode/154374743
 spotify: https://open.spotify.com/episode/6MERVaWst5sEMOB0EqMybI
-youtube: https://youtu.be/dOW4kbZ_qeo
+youtube: dOW4kbZ_qeo
 archive: https://archive.org/details/clock-spinning-episode-020-bok-black-part-1
 ---
 

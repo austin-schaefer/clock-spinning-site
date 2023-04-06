@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQEYhU0
 podcast_addict: https://podcastaddict.com/episode/151755911
 spotify: https://open.spotify.com/episode/7Ij0MhFjohJ5E7mfC1ma0U
-youtube: https://youtu.be/MzVxNTf9-ow
+youtube: MzVxNTf9-ow
 archive: https://archive.org/details/clock-spinning-episode-017-bok-blue-part-1
 ---
 

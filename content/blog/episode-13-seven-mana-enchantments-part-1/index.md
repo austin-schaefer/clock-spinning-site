@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTbYvCw
 podcast_addict: https://podcastaddict.com/episode/146221749
 spotify: https://open.spotify.com/episode/0m61PTROLytDfJHEiturf7
-youtube: https://youtu.be/Eh-WzUXVbuw
+youtube: Eh-WzUXVbuw
 archive: https://archive.org/details/clock-spinning-episode-013-seven-mana-enchantments-part-1
 ---
 

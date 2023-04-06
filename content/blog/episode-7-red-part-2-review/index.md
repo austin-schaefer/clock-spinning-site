@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTqufd4
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F8d50140b-0c4c-4814-addc-13e6a6d63825%2FClock-20Spinning-20Episode-20007-20-20Champions-20of-20Kamigawa.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/7Kp5PAgZhoOtdCszilpYeL
-youtube: https://www.youtube.com/watch?v=80-W7vAm30s&t=2s
+youtube: 80-W7vAm30s
 archive: https://archive.org/details/clock-spinning-episode-007-champions-of-kamigawa-red-part-2
 ---
 

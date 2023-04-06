@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdR0EJRU
 podcast_addict: https://podcastaddict.com/episode/141807057
 spotify: https://open.spotify.com/episode/1QQMkBe7sfmb8dfY11oMRk
-youtube: https://www.youtube.com/watch?v=8BsFfBPiKtY
+youtube: 8BsFfBPiKtY
 archive: https://archive.org/details/clock-spinning-episode-009-champions-of-kamigawa-green-part-2
 ---
 
