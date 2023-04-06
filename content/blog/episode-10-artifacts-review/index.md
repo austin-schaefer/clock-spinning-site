@@ -12,7 +12,6 @@ youtube: NZOCrm4eWeQ
 archive: https://archive.org/details/clock-spinning-episode-010-champions-of-kamigawa-artifacts
 ---
 
-![Sensei's Divining Top](./senseis-divining-top.jpg)
 
 ## 010: Reviewing the Artifacts of Champions of Kamigawa for cube
 
@@ -69,4 +68,3 @@ If you know someone who might enjoy the show, please let them know about us! We'
 * Tenza, Godo's Maul - 1:39:21
 * Uba Mask - 1:44:36
 
-_Image credit: Sensei's Divining Top by Michael Sutfin, © Wizards of the Coast_

@@ -12,7 +12,6 @@ youtube: https://www.youtube.com/watch?v=899KkVCpekM
 archive: https://archive.org/details/clock-spinning-episode-021-counterspell-art-review
 ---
 
-![Counterspell](./sld-331-counterspell.jpg)
 
 In this very special episode of Clock Spinning, we're changing hats entirely and donning [the artist's beret](https://scryfall.com/card/unh/11/fascist-art-director) to discuss one of Magic's oldest and most iconic cards: Counterspell. More specifically--and artistically--we're rating every piece of unique art that Counterspell has ever received.
 
@@ -45,4 +44,3 @@ You can email us at clockspinningpodcast@gmail.com, leave a comment below the Yo
 * Cube choice - 47:06
 * Outro - 48:06
 
-_Image credit: Counterspell by Mateus Manhanini, © Wizards of the Coast_

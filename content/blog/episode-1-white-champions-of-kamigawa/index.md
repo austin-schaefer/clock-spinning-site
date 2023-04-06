@@ -11,7 +11,6 @@ podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captiva
 youtube: Gv6ionETUuA
 archive: https://archive.org/details/clock-spinning-episode-001-champions-of-kamigawa-white
 ---
-![Candles' Glow art](./chk-5-candles-glow.jpg)
 
 In our inaugural episode of Clock Spinning, we kick off the first of many set reviews by looking at the 50 white cards of Champions of Kamigawa (CHK)! We'll be using our **IMPAB** system to rate all of these cards, with the goal of deciding which ones should ascend to the spirit realm and which ones need to stay among the mortals.
 
@@ -81,5 +80,3 @@ Without further ado, the white cards of Champions of Kamigawa!
 - Vassal's Duty - 3:31:04
 - Vigilance - 3:33:48
 - Yosei, the Morning Star - 3:35:13
-
-_Art credit: Candles' Glow by Alan Pollack © Wizards of the Coast_

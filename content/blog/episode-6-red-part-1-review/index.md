@@ -12,7 +12,6 @@ youtube: H4TseUikrUs
 archive: https://clockspinning.com/episode-6-red-part-1-review/
 ---
 
-![Brothers Yamazaki 160a](./yamazaki.jpg)
 
 In this week's episode of Clock Spinning, we're bringing you Part 1 of our two-part review of every red card in Champions of Kamigawa, from [Akki Avalanchers](https://scryfall.com/card/chk/151/akki-avalanchers) (and plenty of other Akki) to the man, the myth, the legend, [Kiki-Jiki](https://scryfall.com/card/chk/175/kiki-jiki-mirror-breaker). Along the way, we'll see more four-mana 1/1s than any one set should have, plenty of spicy art commentary, and some [truly painful](https://scryfall.com/card/chk/162/crushing-pain) cards.
 
@@ -48,5 +47,3 @@ Next week, we'll continue looking at red, for better or worse. (In Kamigawa red,
 + Kami of Fire's Roar - 1:51:13
 + Kiki-Jiki, Mirror Breaker - 1:51:13
 + Outro & Amuse-Bouche - 2:01:33
-
-_Image credit: Brothers Yamzaki (a) by Ron Spears, © Wizards of the Coast_

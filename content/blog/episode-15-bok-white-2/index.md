@@ -12,7 +12,6 @@ youtube: u-4NsU-tLoU
 archive: https://archive.org/details/clock-spinning-episode-015-bok-white-part-2
 ---
 
-![Yomiji, Who Bars the Way](./bok-30-yomiji-who-bars-the-way.jpg)
 
 In this week's episode of Clock Spinning, we're finishing up our review of the white cards of Betrayers of Kamigawa, looking at cards from [Moonlit Strider](https://scryfall.com/card/bok/16/moonlit-strider) to the epically named [Yomiji, Who Bars the way](https://scryfall.com/card/bok/30/yomiji-who-bars-the-way). Today's batch of cards includes Magic's very first keyworded [defender](https://scryfall.com/card/bok/17/opal-eye-kondas-yojimbo) (ever!), even more [cycles](https://scryfall.com/card/bok/21/shining-shoal), and one of the most [baffingly weak cards](https://scryfall.com/card/bok/24/takenos-cavalry) we've ever rated.
 
@@ -48,5 +47,3 @@ We love to hear from listeners with their thoughts on the cube, the cards in it,
 * Waxmane Baku - 49:14
 * Yomiji, Who Bars the Way - 52:35
 * Outro - 57:33
-
-_Image credit: Yomiji, Who Bars the Way by Hideaki Takamura, © Wizards of the Coast_

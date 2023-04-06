@@ -12,7 +12,6 @@ youtube: IOeqwRgu1QI
 archive: https://archive.org/details/clock-spinning-episode-014-bok-white-part-1
 ---
 
-![Hokori, Dust-Drinker](./sld-420-hokori-dust-drinker.jpg)
 
 Today on Clock Spinning, we're starting up our second set review series with Betrayers of Kamigawa. Join us on this [day of destiny](https://scryfall.com/card/bok/1/day-of-destiny) as we rate and review the first 15 white cards in Betrayers for cube. We'll see [epic sorceries that should be arcane](https://scryfall.com/card/bok/4/final-judgment), kami galore, and [more](https://scryfall.com/card/bok/3/faithful-squire-kaiso-memory-of-loyalty) [damage](https://scryfall.com/card/bok/6/heart-of-light) [prevention](https://scryfall.com/card/bok/15/mending-hands) than you can shake a stick at!
 
@@ -52,5 +51,3 @@ As always, we'd love to hear from you if you have any thoughts or memories you'd
 * Kitsune Palliator - 1:11:39
 * Mending Hands - 1:15:06
 * Outro - 1:19:58
-
-_Image credit: Hokori, Dust-Drinker by Yuko Shimizu, © Wizards of the Coast_

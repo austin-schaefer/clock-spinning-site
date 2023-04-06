@@ -12,7 +12,6 @@ youtube: Eh-WzUXVbuw
 archive: https://archive.org/details/clock-spinning-episode-013-seven-mana-enchantments-part-1
 ---
 
-![Overwhelming Splendor](./hou-19-overwhelming-splendor.jpg)
 
 ### Clock Spinning is on YouTube!
 
@@ -53,5 +52,3 @@ You can email us at clock.spinning.podcast@gmail..com, or find us over on the [M
 * Swarm Intelligence - 1:27:49
 * Take Possession - 1:31:36
 * Thought Reflection - 1:36:13
-
-_Image credit: Overwhelming Splendor by Richard Wright, © Wizards of the Coast_

@@ -12,7 +12,6 @@ youtube: uWLErze3K-s
 archive: https://archive.org/details/clock-spinning-episode-011-champions-of-kamigawa-lands
 ---
 
-![Forbidden Orchard](./chk-276-forbidden-orchard.jpg)
 
 ## 011: Reviewing the Lands of CHK for cube -- with bonus mana base talk!
 
@@ -58,5 +57,3 @@ As always, if you know someone who might enjoy the show, please let them know ab
 * Manabase - Viable cycles - 1:15:00
 * Manabase - Final composition - 1:30:44
 * Manabase - Rainbow lands - 1:33:47
-
-_Image credit: Forbidden Orchard by Dany Orizio, © Wizards of the Coast_

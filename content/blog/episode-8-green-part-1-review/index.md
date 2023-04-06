@@ -12,7 +12,6 @@ youtube: _qIToH7HMHc
 archive: https://archive.org/details/clock-spinning-episode-008-champions-of-kamigawa-green-part-1
 ---
 
-![Hana Kami](./mma-147-hana-kami.jpg)
 
 In today's episode of Clock Spinning, Austin and Connor delve into the Jukai Forest in Part 1 of a two-part review of every green card in Champions of Kamigawa. Our journey today begins and ends with iconic cards, stretching from [Azusa, Lost but Seeking](https://scryfall.com/card/chk/201/azusa-lost-but-seeking) to the EDH staple [Kodama's Reach](https://scryfall.com/card/chk/225/kodamas-reach). Be prepared to encounter [many monks](https://scryfall.com/search?as=grid&order=name&q=type%3Amonk+color%3DG+set%3Achk), a cascade of Kodama cards, and the final members of some of our [favorite](https://scryfall.com/card/chk/213/honden-of-lifes-web) (and [least-favorite](https://scryfall.com/card/chk/208/feral-deceiver)) cycles in Champions! As always, our ultimate goal is to build a cube that highlights the fun, feel, and even flavor of Kamigawa block.
 
@@ -49,5 +48,3 @@ If you know someone who might enjoy the show, please let them know about us! We'
 - Kodama of the South Tree - 1:57:39
 - Kodama's Might - 2:03:36
 - Kodama's Reach - 2:07:06
-
-_Image credit: Hana Kami by Rebecca Guay, © Wizards of the Coast_

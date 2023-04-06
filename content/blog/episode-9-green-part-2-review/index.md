@@ -12,7 +12,6 @@ youtube: 8BsFfBPiKtY
 archive: https://archive.org/details/clock-spinning-episode-009-champions-of-kamigawa-green-part-2
 ---
 
-![Time of Need](./time-of-need.jpg)
 
 ## 009: Reviewing the Green cards of Champions of Kamigawa for cube, Part 2
 
@@ -60,5 +59,3 @@ If you know someone who might enjoy the show, please let them know about us! We'
 * Venerable Kumo - 1:55:41
 * Vine Kami - 1:57:53
 * Wear Away - 2:01:44
-
-_Image credit: Time of Need by Dany Orizio, © Wizards of the Coast_

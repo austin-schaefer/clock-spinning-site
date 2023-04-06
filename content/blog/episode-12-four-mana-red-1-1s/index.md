@@ -12,7 +12,6 @@ youtube: EVvWYXENGcg
 archive: https://archive.org/details/clock-spinning-episode-012-four-mana-red-1-1s
 ---
 
-![Goblin Snowman](./tsb-64-goblin-snowman.jpg)
 
 ## 012: Reviewing EVERY red 4-mana 1/1 in Magic: the Gathering
 
@@ -51,5 +50,3 @@ As always, if you have any thoughts on today's episode, the cube, or the show mo
 * Seismic Mage - 1:46:28
 * Whipkeeper - 1:52:14
 * Ratings Recap - 1:56:19
-
-_Image credit: Goblin Snowman by Daniel Gelon, © Wizards of the Coast_

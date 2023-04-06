@@ -11,7 +11,6 @@ spotify: https://open.spotify.com/episode/7F83bMw5ndy4KaS37rdzqX
 youtube: zBJmO2hStNk
 archive: https://archive.org/details/clock-spinning-episode-002-champions-of-kamigawa-blue
 ---
-![Meloku, the Clouded Mirror art](./cmr-399-meloku-the-clouded-mirror.jpg)
 
 We're very excited to bring you another episode in our card-by-card set review of Champions of Kamigawa! In [Episode 1](https://clockspinning.com/episode-1-white-champions-of-kamigawa/), we rated all 50 white cards in Champions according to our **IMPAB** system. In today's episode, we're moving on to blue. Come along for our visit to [Minamo](https://mtg.fandom.com/wiki/Minamo), draw more cards than you'll know what to do with, and dare to listen to us speak about [The Unspeakable](https://scryfall.com/card/chk/98/the-unspeakable)!
 
@@ -81,5 +80,3 @@ Without further ado, the blue cards of Champions of Kamigawa!
 - The Unspeakable - 3:14:03
 - Uyo, Silent Prophet - 3:20:54
 - Wandering Ones - 3:25:17
-
-_Art credit: Meloku the Clouded Mirror by Scott M. Fischer, © Wizards of the Coast_

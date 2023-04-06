@@ -12,7 +12,6 @@ youtube: 7McHRssSwMc
 archive: https://archive.org/details/clock-spinning-episode-018-bok-blue-part-2
 ---
 
-![Walker of Secret Ways](./pca-27-walker-of-secret-ways.jpg)
 
 In this episode of Clock Spinning, we're wrapping up our review of the blue cards of Betrayers of Kamigawa. Today's episode features [Tomorrow](https://scryfall.com/card/bok/58/tomorrow-azamis-familiar), more [confusingly non-Arcane cards](https://scryfall.com/card/bok/49/reduce-to-dreams) that might have become reprints in another life, and [a card](https://scryfall.com/card/bok/53/stream-of-consciousness) or [two](https://scryfall.com/card/bok/57/toils-of-night-and-day) that appear to do essentially nothing, at least in this podcast's cube.
 
@@ -48,4 +47,3 @@ If you have any thoughts to share about the cards we discuss on the show, cube p
 * Veil of Secrecy - 1:11:11
 * Walker of Secret Ways - 1:17:28
 
-_Image credit: Walker of Secret Ways by Scott M. Fischer, © Wizards of the Coast_

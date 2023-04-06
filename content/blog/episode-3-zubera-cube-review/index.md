@@ -12,7 +12,6 @@ youtube: kZcJ7U3Km5g
 archive: https://archive.org/details/clock-spinning-episode-003-zubera-micro-episode
 ---
 
-![Ashen Skin Zubera art](./chk-101-ashen-skin-zubera.jpg)
 
 This week, we're taking a brief break from our Champions of Kamigawa set reviews to bring you a short(er) episode on some of Connor's favorite cards in the set -- the Zuberas! If you want to learn how to set up a one-turn-kill combo involving these frightening spirit friends, or if you just share our love for the handful of cards in Magic's history to carry the great honor of the Zubera creature type, check out Episode 3 now, where we'll also be sharing some of the great comments and feedback we've received from our listeners.
 
@@ -34,5 +33,3 @@ Next week, we'll be back on the set review grind to look at the black cards of C
 - Vivanter's incredible [Council of the Soratami](https://i.imgur.com/s9cr1Je.png)
 
 ...and much more!
-
-_Art credit: Ashen-Skin Zubera by Wayne Reynolds, © Wizards of the Coast_

@@ -12,7 +12,6 @@ youtube: DwMzfBS_QVo
 archive: https://archive.org/details/clock-spinning-episode-016-7-mana-enchantments-part-2
 ---
 
-![Form of the Dragon](./9ed-187-form-of-the-dragon.jpg)
 
 We promised a Part Two to our [7 or mana enchantments episode](https://clockspinning.com/episode-13-seven-mana-enchantments-part-1/), and today, we deliver!
 
@@ -46,5 +45,3 @@ You can find every episode [on YouTube](https://www.youtube.com/@clockspinning) 
 * Cloven Casting - 1:12:25
 * Yavimaya's Embrace - 1:15:57
 * Eldrazi Conscription - 1:20:37
-
-_Image credit: Form of the Dragon by Kev Walker, © Wizards of the Coast_

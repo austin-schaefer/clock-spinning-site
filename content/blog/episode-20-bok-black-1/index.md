@@ -12,7 +12,6 @@ youtube: dOW4kbZ_qeo
 archive: https://archive.org/details/clock-spinning-episode-020-bok-black-part-1
 ---
 
-![Ink-Eyes, Servant of Oni](./pca-33-ink-eyes-servant-of-oni.jpg)
 
 Today's episode of Clock Spinning brings us back into the swamps of Takenuma, where we're rating and reviewing the first half of Betrayers of Kamigawa's black cards. Come along for the ride as we encounter some of the most [baffingly bad removal](https://scryfall.com/card/bok/63/call-for-blood) we've seen yet, serve our oni masters with [Ink-Eyes](https://scryfall.com/card/bok/71/ink-eyes-servant-of-oni), and discover Austin's [leech limit](https://scryfall.com/card/bok/62/blessing-of-leeches) (it's ten feet). We have a lot to say about the art on this episode's cards too, so we'd encourage you to check out this episode in particular on our [our YouTube channel](https://www.youtube.com/@clockspinning), where we put up every card's image as we go.
 
@@ -49,4 +48,3 @@ If you have any thoughts to share about the cards we discuss on the show, cube p
 * Nezumi Shadow-Watcher - 1:13:42
 * Ogre Marauder - 1:16:45
 
-_Image credit: Ink-Eyes, Servant of Oni by Wayne Reynolds, © Wizards of the Coast_
