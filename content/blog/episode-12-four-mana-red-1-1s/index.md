@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdSg6_WI
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2Fb94a7fed-feec-48c4-8223-6bac68f7c6f8%2FClock-20Spinning-20Episode-20012-20-20Four-20Mana-20Red-201-1s-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/2DkiVsloIcC0jdSQzgjJY7
-youtube: https://www.youtube.com/watch?v=EVvWYXENGcg
+youtube: EVvWYXENGcg
 archive: https://archive.org/details/clock-spinning-episode-012-four-mana-red-1-1s
 ---
 
-![Goblin Snowman](./tsb-64-goblin-snowman.jpg)
 
 ## 012: Reviewing EVERY red 4-mana 1/1 in Magic: the Gathering
 
@@ -51,5 +50,3 @@ As always, if you have any thoughts on today's episode, the cube, or the show mo
 * Seismic Mage - 1:46:28
 * Whipkeeper - 1:52:14
 * Ratings Recap - 1:56:19
-
-_Image credit: Goblin Snowman by Daniel Gelon, © Wizards of the Coast_

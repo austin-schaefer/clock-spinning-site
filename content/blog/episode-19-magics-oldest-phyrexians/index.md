@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdRHVk3k
 podcast_addict: https://podcastaddict.com/episode/153228969
 spotify: https://open.spotify.com/episode/7F5Z9kw58zf4p7in3NXNjF
-youtube: https://www.youtube.com/watch?v=lou56p-n6Ls
+youtube: lou56p-n6Ls
 archive: https://archive.org/details/clock-spinning-episode-019-oldest-phyrexians
 ---
 
-![Phyrexian Dreadnought](./mir-315-phyrexian-dreadnought.jpg)
 
 We have a very special episode of Clock Spinning in store! To celebrate the release of the latest Praetors, planeswalkers, and poison counters in Phyrexia: All Will Be One, we've decided to go way back in Magic's history for a look at the game's **oldest** denizens of the Machine Hell. Join us as we pry open the [Gate to Phyrexia](https://scryfall.com/card/me4/82/gate-to-phyrexia) and discover the [Gremlins](https://scryfall.com/card/atq/18/phyrexian-gremlins), [Demons](https://scryfall.com/card/atq/21/yawgmoth-demon), and [Dreadnoughts](https://scryfall.com/card/mir/315/phyrexian-dreadnought) that started it all.
 
@@ -42,4 +41,3 @@ Have you ever [Illusionary Mask-ed out a Phyrexian Dreadnought](https://scryfall
 * Morinfen - 1:35:04
 * Phyrexian Furnace - 1:42:47
 
-_Image credit: Phyrexian Dreadnought by Pete Venters, © Wizards of the Coast_

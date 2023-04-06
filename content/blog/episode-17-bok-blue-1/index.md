@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdQEYhU0
 podcast_addict: https://podcastaddict.com/episode/151755911
 spotify: https://open.spotify.com/episode/7Ij0MhFjohJ5E7mfC1ma0U
-youtube: https://youtu.be/MzVxNTf9-ow
+youtube: MzVxNTf9-ow
 archive: https://archive.org/details/clock-spinning-episode-017-bok-blue-part-1
 ---
 
-![Higure, the Still Wind](./bok-37-higure-the-still-wind.jpg)
 
 Clock Spinning continues its journey through Betrayers of Kamigawa by venturing into Blue! If you're like us (and if you're reading this, you probably are), when you hear "Kamigawa" you think "ninjas." Well today, we're very excited to present (and rate, and review) a few of those much-loved silent killers, including a [legendary ninja tutor-er](https://scryfall.com/card/bok/37/higure-the-still-wind) (tutorist?) and a [legendary-in-fame-only thief](https://scryfall.com/card/bok/44/ninja-of-the-deep-hours). Along the way, we'll encounter some of Kamigawa's obligatory [freaky spirits](https://scryfall.com/card/bok/32/chisei-heart-of-oceans), along with one card whose power level you'd do well to [heed](https://scryfall.com/card/bok/36/heed-the-mists).
 
@@ -50,4 +49,3 @@ If you have any memories or stories to share about any of the cards we discuss o
 * Ninja of the Deep Hours - 1:14:04
 * Patron of the Moon - 1:17:19
 
-_Image credit: Higure, the Still Wind by Christopher Moeller, © Wizards of the Coast_

@@ -8,11 +8,9 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdR8zBXY
 podcast_addict: https://podcastaddict.com/episode/155781819
 spotify: https://open.spotify.com/episode/2feRccQaUdnm5HmWu26LaI
-youtube: https://youtu.be/IDaD5LIqd3Y
+youtube: IDaD5LIqd3Y
 archive: https://archive.org/details/clock-spinning-episode-022-bok-black-part-2
 ---
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IDaD5LIqd3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Today’s episode features surprise appearances by not one but two of the quirkiest black commanders ever printed! This being Kamigawa, it also features arguably the worst single {B} discard spell ever printed, and finishes on an inexplicable demon that even the most dedicated combo connivers might struggle to break. Join us for part two of our Betrayers of Kamigawa Black review.
 

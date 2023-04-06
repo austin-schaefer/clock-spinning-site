@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdT5e_2w
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F7bd1c8d8-6ede-4e52-8292-f563139b7630%2FClock-20Spinning-20Episode-20010-20-20Champions-20of-20Kamigawa-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/5sgLZrh7oB9gubzsg887hv
-youtube: https://www.youtube.com/watch?v=NZOCrm4eWeQ
+youtube: NZOCrm4eWeQ
 archive: https://archive.org/details/clock-spinning-episode-010-champions-of-kamigawa-artifacts
 ---
 
-![Sensei's Divining Top](./senseis-divining-top.jpg)
 
 ## 010: Reviewing the Artifacts of Champions of Kamigawa for cube
 
@@ -69,4 +68,3 @@ If you know someone who might enjoy the show, please let them know about us! We'
 * Tenza, Godo's Maul - 1:39:21
 * Uba Mask - 1:44:36
 
-_Image credit: Sensei's Divining Top by Michael Sutfin, © Wizards of the Coast_

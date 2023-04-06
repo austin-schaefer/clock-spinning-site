@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTGIIg0
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F61247fd7-5c25-4e6a-b88b-c4929c308e7e%2Fclock-spinning-04-chk-black-part-1.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/5QCiqEqjwLgFoikxbgkgtz
-youtube: https://www.youtube.com/watch?v=HPdsTYCyqpo
+youtube: HPdsTYCyqpo
 archive: https://archive.org/details/clock-spinning-04-chk-black-part-1
 ---
 
-![Horobi Death's Wail art](./chk-117-horobi-death-s-wail.jpg)
 
 In this week's episode of Clock Spinning, we're rating and reviewing the first 25 black cards (alphabetically speaking) in Champions of Kamigawa. Listen in as we explore some of the set's most gruesome art, rate some of its most solid cards, and debate just how much fear we want to have in the cube. And for the true data obsessives, [check out our Kiku spreadsheet](https://docs.google.com/spreadsheets/d/1jyQg8sIezcvWJH5Lwyt014f8ODBm5IGrZItoRcndRmw/edit#gid=1592853001) to see which Kamigawa block creatures succumb to Kiku’s wiles.
 
@@ -50,5 +49,3 @@ On our next episode, we'll be finishing up with black. If you have any thoughts 
 - Marrow-Gnawer - 1:41:49
 - Midnight Covenant - 1:46:24
 - Outro - 1:50:35
-
-_Art credit: Horobi, Death's Wail by John Bolton, © Wizards of the Coast_

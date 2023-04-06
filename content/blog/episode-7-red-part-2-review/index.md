@@ -8,11 +8,10 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdTqufd4
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F8d50140b-0c4c-4814-addc-13e6a6d63825%2FClock-20Spinning-20Episode-20007-20-20Champions-20of-20Kamigawa.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/7Kp5PAgZhoOtdCszilpYeL
-youtube: https://www.youtube.com/watch?v=80-W7vAm30s&t=2s
+youtube: 80-W7vAm30s
 archive: https://archive.org/details/clock-spinning-episode-007-champions-of-kamigawa-red-part-2
 ---
 
-![Zo-Zu](./zo-zu.jpg)
 
 This week on Clock Spinning, we're closing out our two-part review of every red card in Champions of Kamigawa, from the [mightiest yamabushi](https://scryfall.com/card/chk/176/kumano-master-yamabushi) to [Zo-Zu the Punisher](https://scryfall.com/card/chk/200/zo-zu-the-punisher), our one and only Akki in today's episode. Join us as we explore the best--and the worst--red has to offer in Champions.
 
@@ -49,5 +48,3 @@ If you know someone who might enjoy the show, please let them know about us! We'
 + Yamabushi's Flame - 1:45:22
 + Yamabushi's Storm - 1:49:10
 + Zo-Zu the Punisher - 1:53:46
-
-_Image credit: Zo-Zu the Punisher by Matt Cavotta, © Wizards of the Coast_
