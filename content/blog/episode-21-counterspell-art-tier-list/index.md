@@ -8,7 +8,7 @@ google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdG
 overcast: https://overcast.fm/+4EdRZ_9Ok
 podcast_addict: https://podcastaddict.com/episode/155074348
 spotify: https://open.spotify.com/episode/3Jwgx2sSKSJ1Kt7XROWM4j
-youtube: https://www.youtube.com/watch?v=899KkVCpekM
+youtube: 899KkVCpekM
 archive: https://archive.org/details/clock-spinning-episode-021-counterspell-art-review
 ---
 
