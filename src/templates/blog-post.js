@@ -103,7 +103,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </ul>
         </episodeLinks>
         <youtubeEmbed>
-          <iframe width="622" height="348" src={`https://www.youtube-nocookie.com/embed/${post.frontmatter.youtube}`} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="622" height="348" src={`https://www.youtube-nocookie.com/embed/${post.frontmatter.youtube}`} title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
         </youtubeEmbed>
         <blogPostBody>
           <section
