@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Clock Spinning is a podcast covering the history of Magic: the Gathering. Join us as we review classic sets card by card and turn them into fun cubes.
+          Clock Spinning is a podcast of Magic: the Gathering history. We believe every card is interesting if you look at it closely enough, so we go card by card through classic sets and quirky topics to share interesting history, trivia, art, and more. 
         </p>
       )}
     </div>
