@@ -12,7 +12,25 @@ youtube: r5SnaGT-z7s
 archive: https://archive.org/details/clock-spinning-episode-024-bok-red
 ---
 
-[content]
+We're very excited to bring you a new, sleek, streamlined episode of Clock Spinning! Today we're hiking the Sokenzan Mountains to find out which red cards from Betrayers of Kamigawa can make the cut for our Kamigawa cube. We'll be braving [barbs](https://scryfall.com/card/bok/94/aura-barbs), [blades](https://scryfall.com/card/bok/95/blademane-baku), [blazes](https://scryfall.com/card/bok/96/blazing-shoal), and [blizzards](https://scryfall.com/card/bok/91/akki-blizzard-herder) in search of some (deeply) [hidden gems](https://scryfall.com/card/bok/104/fumiko-the-lowblood).
+
+You might have noticed that instead of our usual "Color Part 1" format for these Kamigawa set review episodes, we're bringing you all 30 red cards from Betrayers in one, not-that-much-longer episode. Tune in to today's episode for all the details, but we're hoping this new format will let us focus on the most interesting cards from this and other sets without getting bogged down by [Frost Ogres](https://scryfall.com/card/bok/102/frost-ogre).
+
+We'll still be sticking with our tried-and-tested IMPAB rating system for every card we examine, which stands for:
+
+- Insta-cut
+- Meh
+- Playable
+- Auto-include
+- Build-around
+
+Our goal, as always, is to build a cube that captures the unique spirit (ha) and flavor of the original Kamigawa block while exploring the history and trivia of its coolest cards.
+
+You can find our first episode [here](https://clockspinning.com/episode-1-white-champions-of-kamigawa/), where we also explain our IMPAB rating system in depth and introduce our cube. Or, if you'd like to just pick up from the top of Betrayers, you can start with [episode 14](https://clockspinning.com/episode-14-bok-white-1/).
+
+We also update the cube with our cuts ratings after every episode on [Cube Cobra](https://cubecobra.com/cube/overview/clock-spinning-chk), and we would love for you to try [playtesting](https://cubecobra.com/cube/playtest/clock-spinning-chk) it if you're interested! This really helps us see what's working in the cube and what might need a bit more TLC.
+
+If you have any thoughts to share about the cards we discuss on the show, cube philosophy, or just Magic in general, please get in touch! You can email us at clockspinningpodcast@gmail.com, or find us over on the [MagicTCG](https://www.reddit.com/r/magicTCG/), [MTGCube](https://www.reddit.com/r/mtgcube/), and [EDH](https://www.reddit.com/r/EDH/) subreddits. You can also find every episode on our [YouTube channel](https://www.youtube.com/@clockspinning).
 
 ### Today's cards
 
