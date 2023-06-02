@@ -12,7 +12,17 @@ youtube: UWCO7LVgqOY
 archive: https://archive.org/details/clock-spinning-episode-025-lightning-bolt-art-review
 ---
 
+Today's episode of Clock Spinning continues our Magic [art review](https://clockspinning.com/episode-21-counterspell-art-tier-list/) [series](https://clockspinning.com/episode-23-dark-ritual-art-tier-list/) with a real shocker: Lightning Bolt!
 
+(Sorry, neither [Shock](https://scryfall.com/card/m21/159/shock) nor the actual [Shocker](https://scryfall.com/card/tmp/204/shocker) made the cut)
+
+Join us as we see everything from a [bear](https://scryfall.com/card/sld/84/lightning-bolt) to a [minotaur thing](https://scryfall.com/card/pf19/1/lightning-bolt) to a... [door?](https://scryfall.com/card/clb/187/lightning-bolt) get blasted by the power of one of red's most iconic spells of all time!
+
+This is the third episode in a series we're trying here on Clock Spinning where we rate every unique piece of art on truly iconic Magic cards. Carrying on a great content creator tradition, we use an S through F scale to carefully (and completely subjectively) rate every card.
+
+You can see all the cards discussed in this episode [here](https://scryfall.com/search?q=%22lightning+bolt%22+unique%3Aart+prefer%3Aoldest+-layout%3Aart_series&order=released&dir=asc). Or, for the very best viewing experience we can offer, just check out the YouTube video at the top of this page, where we'll show each card on the screen as we talk about it. We'd also love for you to check out our [channel](https://www.youtube.com/@clockspinning), where you can find every one of our past episodes (art reviews and otherwise).
+
+We truly do like hearing from listeners, so please reach out! You can email us at clockspinningpodcast@gmail.com, leave a comment below the YouTube video for this episode, or find [our posts on Reddit](https://www.reddit.com/user/ClockSpinning/). We might even have a foil [Graxiplon](https://scryfall.com/card/ons/86/graxiplon) or two to share.
 
 ### All the Lightning Bolt art
 
