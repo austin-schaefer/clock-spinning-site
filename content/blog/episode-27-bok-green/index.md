@@ -6,7 +6,7 @@ amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c
 apple_podcasts: https://podcasts.apple.com/us/podcast/027-bok-green-betrayers-of-kamigawa/id1611106302?i=1000620984054
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/YjI4MmI0MTYtZmEzMS00NTI2LWEzNGItZjk1MjJiMWEyODVj
 overcast: https://overcast.fm/+4EdSH5qvQ
-podcast_addict: 
+podcast_addict: https://podcastaddict.com/clock-spinning-magic-the-gathering-history/episode/160605908
 spotify: https://open.spotify.com/episode/2A9eDWtbwfIXbekoF93Qez
 youtube: mgW3EatJhnU
 archive: 
