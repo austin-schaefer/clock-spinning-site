@@ -4,7 +4,7 @@ date: "2023-06-21T21:09:00"
 captivate_link: https://player.captivate.fm/episode/5a5ff5d1-cd4c-4285-b3c4-ad12123449d3
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/cac1f75b-06de-4dbb-aae7-a53eaf4a252d/clock-spinning%E2%80%94magic-the-gathering-history-026-graxiplon
 apple_podcasts: https://podcasts.apple.com/us/podcast/026-graxiplon/id1611106302?i=1000617921857
-google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NWE1ZmY1ZDEtY2Q0Yy00Mjg1LWIzYzQtYWQxMjEyMzQ0OWQz?sa=X&ved=0CAUQkfYCahcKEwi4nIe1_YqAAxUAAAAAHQAAAAAQAQ
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/NWE1ZmY1ZDEtY2Q0Yy00Mjg1LWIzYzQtYWQxMjEyMzQ0OWQz
 overcast: https://overcast.fm/+4EdR0qpOA
 podcast_addict: https://podcastaddict.com/clock-spinning-magic-the-gathering-history/episode/159606321
 spotify: https://open.spotify.com/episode/2pTopsG5wY7GoMhkxuJIJZ

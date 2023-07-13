@@ -1,13 +1,13 @@
 ---
 title: "024: BOK Green — Betrayers of Kamigawa, Reviewed for Cube"
 date: "2023-07-12T21:09:00"
-captivate_link: 
-amazon_music: 
-apple_podcasts: 
-google_podcasts: 
-overcast: 
+captivate_link: https://player.captivate.fm/episode/b282b416-fa31-4526-a34b-f9522b1a285c
+amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/bb223be3-0661-4a9f-84f7-805761807c78/clock-spinning%E2%80%94magic-the-gathering-history-027-bok-green-betrayers-of-kamigawa
+apple_podcasts: https://podcasts.apple.com/us/podcast/027-bok-green-betrayers-of-kamigawa/id1611106302?i=1000620984054
+google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/YjI4MmI0MTYtZmEzMS00NTI2LWEzNGItZjk1MjJiMWEyODVj
+overcast: https://overcast.fm/+4EdSH5qvQ
 podcast_addict: 
-spotify: 
+spotify: https://open.spotify.com/episode/2A9eDWtbwfIXbekoF93Qez
 youtube: 
 archive: 
 ---
