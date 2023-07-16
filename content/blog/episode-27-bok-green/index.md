@@ -9,7 +9,7 @@ overcast: https://overcast.fm/+4EdSH5qvQ
 podcast_addict: https://podcastaddict.com/clock-spinning-magic-the-gathering-history/episode/160605908
 spotify: https://open.spotify.com/episode/2A9eDWtbwfIXbekoF93Qez
 youtube: mgW3EatJhnU
-archive: 
+archive: https://archive.org/details/clock-spinning-episode-027-bok-green
 ---
 
 Today on Clock Spinning, we return to Kamigawa for our last full-color review of Betrayers for cube. In this episode, we're rating and reviewing at every green card in the set. Journey with Austin and Connor deep into Jukai Forest to find [ludicrously overcosted creatures](https://scryfall.com/card/bok/121/body-of-jukai), [more snakes](https://scryfall.com/search?q=t%3Asnake+set%3Abok&unique=cards&as=grid&order=name) than any plane could ever need, and oodles of floating [green mana](https://scryfall.com/search?q=c%3Ag+set%3Abok+o%3A%7Bg%7D+-t%3Aarcane&unique=cards&as=grid&order=name). Our goal is to create a cube that captures some of the unique flavor, feel, and playstyles of OG Kamigawa block.
