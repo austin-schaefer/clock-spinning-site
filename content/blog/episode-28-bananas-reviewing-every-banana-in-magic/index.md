@@ -5,8 +5,8 @@ captivate_link: https://player.captivate.fm/episode/b282b416-fa31-4526-a34b-f952
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/572a1c76-ae53-4c4a-a00e-8d3845cb975e/clock-spinning%E2%80%94magic-the-gathering-history-028-bananas-reviewed
 apple_podcasts: https://podcasts.apple.com/us/podcast/028-bananas-reviewed/id1611106302?i=1000622604417
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/MGExYjJkMjctMzQwNS00MGExLWI0ZDgtZmU0YzU4OWZkYmNm?sa=X&ved=0CAUQkfYCahcKEwio2e3x0bCAAxUAAAAAHQAAAAAQAQ
-overcast: 
-podcast_addict: 
+overcast: https://overcast.fm/+4EdRN4Qjg
+podcast_addict: https://podcastaddict.com/clock-spinning-magic-the-gathering-history/episode/161318174
 spotify: https://open.spotify.com/episode/7mDVD1SZ07yp3DB2bNraXV
 youtube: MLeHYIFKgUY
 archive: https://archive.org/details/clock-spinning-episode-028-bananas
