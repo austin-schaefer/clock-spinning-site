@@ -5,8 +5,8 @@ captivate_link: https://player.captivate.fm/episode/830f5865-867c-4961-b7fd-399f
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/18476580-e888-473b-a634-5eb02effb4c2/clock-spinning%E2%80%94magic-the-gathering-history-29-birds-of-paradise-art-review
 apple_podcasts: https://podcasts.apple.com/us/podcast/29-birds-of-paradise-art-review/id1611106302?i=1000624726465
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ODMwZjU4NjUtODY3Yy00OTYxLWI3ZmQtMzk5ZmRiOTlhMWYy?sa=X&ved=0CAUQkfYCahcKEwjojZHK_uKAAxUAAAAAHQAAAAAQAQ
-overcast: 
-podcast_addict: 
+overcast: https://overcast.fm/+4EdSmIRuI
+podcast_addict: https://podcastaddict.com/clock-spinning-magic-the-gathering-history/episode/162270069
 spotify: https://open.spotify.com/episode/3vpR0PehyFSoiYWFnjwioo
 youtube: VBaA_23gyJw
 archive: https://archive.org/details/clock-spinning-episode-029-birds-of-paradise
