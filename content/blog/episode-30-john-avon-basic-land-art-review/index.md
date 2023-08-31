@@ -1,6 +1,6 @@
 ---
 title: "030: John Avon basic land art review"
-* date: "2023-08-31T21:09:00"
+date: "2023-08-31T21:09:00"
 captivate_link: https://player.captivate.fm/episode/d4b68565-ab67-49b1-84e2-8d7b2856f6e6
 amazon_music: 
 apple_podcasts: 
