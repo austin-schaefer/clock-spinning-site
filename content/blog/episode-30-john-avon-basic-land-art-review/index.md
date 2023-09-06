@@ -22,32 +22,32 @@ You can find each and every one of John Avon's basic lands [here](https://scryfa
 
 **Plains**
 
-* 2:36 - Austin’s pick: scryfall.com/card/7ed/344/plains
-* 4:54 - Austin’s runner-up: scryfall.com/card/pmps07/1/ja
-* 5:20 - Connor’s pick: scryfall.com/card/kld/250/plains
+* 2:36 - Austin’s pick: [7ED#344](https://scryfall.com/card/7ed/344/plains)
+* 4:54 - Austin’s runner-up: [PMPS07#1](https://scryfall.com/card/pmps07/1/ja)
+* 5:20 - Connor’s pick: [KLD#250](https://scryfall.com/card/kld/250/plains)
 
 **Island**
 
-* 8:10 - Connor’s pick: scryfall.com/card/ust/213/island
-* 10:50 - Austin’s pick: scryfall.com/card/inv/336/island
-* 13:54 - Austin’s runner-up: scryfall.com/card/unh/137/island
+* 8:10 - Connor’s pick: [UST#213](https://scryfall.com/card/ust/213/island)
+* 10:50 - Austin’s pick: [INV#336](https://scryfall.com/card/inv/336/island)
+* 13:54 - Austin’s runner-up: [UNH#137](https://scryfall.com/card/unh/137/island)
 
 **Swamp**
 
-* 15:30 - Austin’s pick: scryfall.com/card/pal06/3/swamp
-* 19:00 - Austin’s runner-up: scryfall.com/card/unh/138/swamp
-* 19:27 - Connor’s pick: scryfall.com/card/m15/258/swamp
-* 22:06 - Connor’s runner-up: scryfall.com/card/ust/214/swamp
+* 15:30 - Austin’s pick: [PAL06#3](https://scryfall.com/card/pal06/3/swamp)
+* 19:00 - Austin’s runner-up: [UNH#138](https://scryfall.com/card/unh/138/swamp)
+* 19:27 - Connor’s pick: [M15#258](https://scryfall.com/card/m15/258/swamp)
+* 22:06 - Connor’s runner-up: [UST#214](https://scryfall.com/card/ust/214/swamp)
 
 **Mountain**
 
-* 22:51 - Connor’s pick: scryfall.com/card/chk/300/mountain 
-* 25:23 - Connor’s runner-up: scryfall.com/card/chk/301/mountain
-* 26:10 - Austin’s runner-up: scryfall.com/card/chk/302/mountain
-* 27:51 -  Austin’s pick: scryfall.com/card/mir/346/mountain
+* 22:51 - Connor’s pick: [CHK#300 ](https://scryfall.com/card/chk/300/mountain )
+* 25:23 - Connor’s runner-up: [CHK#301](https://scryfall.com/card/chk/301/mountain)
+* 26:10 - Austin’s runner-up: [CHK#302](https://scryfall.com/card/chk/302/mountain)
+* 27:51 -  Austin’s pick: [MIR#346](https://scryfall.com/card/mir/346/mountain)
 
 **Forest**
 
-* 30:22 - Austin’s pick: scryfall.com/card/ons/349/forest 
-* 33:47 - Austin’s runner-up: scryfall.com/card/unh/140/forest 
-* 34:33 - Connor’s pick: scryfall.com/card/ons/347/forest
+* 30:22 - Austin’s pick: [ONS#349](https://scryfall.com/card/ons/349/forest )
+* 33:47 - Austin’s runner-up: [UNH#140](https://scryfall.com/card/unh/140/forest )
+* 34:33 - Connor’s pick: [ONS#347](https://scryfall.com/card/ons/347/forest)
