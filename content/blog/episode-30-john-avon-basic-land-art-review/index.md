@@ -1,11 +1,11 @@
 ---
 title: "030: John Avon basic land art review"
-date: "2023-08-31T21:09:00"
+date: "2023-09-06T21:09:00"
 captivate_link: https://player.captivate.fm/episode/d4b68565-ab67-49b1-84e2-8d7b2856f6e6
 amazon_music: https://music.amazon.com/podcasts/8d6a2f78-e757-471f-aa2c-47afe84c72db/episodes/8e115615-5754-4d5b-9c91-96e13d2504ba/clock-spinning%E2%80%94magic-the-gathering-history-030-john-avon-basics-the-land-master's-most-masterful-masterpieces
 apple_podcasts: https://podcasts.apple.com/us/podcast/030-john-avon-basics-the-land-masters-most-masterful/id1611106302?i=1000626977407
 google_podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vY2xvY2stc3Bpbm5pbmcv/episode/ZDRiNjg1NjUtYWI2Ny00OWIxLTg0ZTItOGQ3YjI4NTZmNmU2?sa=X&ved=0CAUQkfYCahcKEwjgx5KpuJaBAxUAAAAAHQAAAAAQAQ
-overcast: 
+overcast: https://overcast.fm/+4EdQFy0vQ
 podcast_addict: https://podcastaddict.com/episode/https%3A%2F%2Fpodcasts.captivate.fm%2Fmedia%2F141804f9-bb80-4e9a-ad30-43655dd0b8d8%2FClock-Spinning-Episode-030-John-Avon-Basic-Land-Art-converted.mp3&podcastId=3861161
 spotify: https://open.spotify.com/episode/3X8m5tfcZXxVcGJSFpymFE
 youtube: wgMn-ojdpY0
