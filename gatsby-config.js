@@ -49,10 +49,18 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: `UA-209524678-1`,
-        anonymize: true,
+        trackingIds: [
+          `UA-209524678-1`, // Google Analytics / GA
+        ],
+        gtagConfig: {
+          anonymize_ip: true,
+        },
+        pluginConfig: {
+          head: false,
+          respectDNT: true,
+        },
       },
     },
     {
@@ -86,7 +94,7 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { frontmatter: { date: DESC } }
                 ) {
                   nodes {
                     excerpt
@@ -103,6 +111,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Clock Spinning RSS Feed",
           },
         ],
       },
